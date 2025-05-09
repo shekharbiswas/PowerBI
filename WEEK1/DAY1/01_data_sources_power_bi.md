@@ -30,6 +30,19 @@ Discover how Power BI connects to other apps and services using connectors, and 
 
 <br>
 
+## ✅ What To Do
+
+Head over to **Module 1 on Coursera**  
+🔗 [Module 1 – Extract, Transform and Load Data in Power BI](https://www.coursera.org/learn/extract-transform-and-load-data-in-power-bi/home/module/1)
+
+Complete:
+
+- ✅ Course Introduction (video)
+- ✅ Course Syllabus (reading)
+- ✅ "How to be successful in this course" (reading)
+- ✅ Reflection: *What do you hope to learn?* (discussion prompt)
+
+<br>
 
 ## 🧠 Reflect & Apply
 
