@@ -1,8 +1,8 @@
-# 📅 Day 1: Exploring Data Sources in Power BI
+# 📅 Exploring Data Sources in Power BI
 
 Welcome to Day 1 of your Power BI journey. Today is all about **where your data comes from** and how Power BI connects to those sources.
 
----
+<br>
 
 ## 🎯 What You'll Learn
 
@@ -12,7 +12,7 @@ Welcome to Day 1 of your Power BI journey. Today is all about **where your data 
 - What storage modes are and how they affect performance
 - How triggers and actions automate data workflows
 
----
+<br>
 
 ## 📘 Concepts To Explore
 
@@ -28,7 +28,8 @@ Explore the different ways Power BI can store or access data: whether it imports
 ### Connectors, Triggers, and Actions
 Discover how Power BI connects to other apps and services using connectors, and how you can automate updates or workflows using triggers and actions.
 
----
+<br>
+
 
 ## 🧠 Reflect & Apply
 
@@ -40,10 +41,9 @@ Think about three different sources of data you’ve interacted with recently �
 
 Write your answers in a personal note or share them in your learning group.
 
----
+<br>
 
 ## 🔍 What's Next
 
 Tomorrow, you'll get hands-on with setting up a data source in Power BI and explore how to configure storage modes based on your needs.
 
-➡️ Continue to [Day 2 – Practicing Setup & Storage](02_day2_storage_modes.md)
