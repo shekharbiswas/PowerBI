@@ -8,7 +8,7 @@ Today's task
 
 🔗 **[Visualizing Data & Creating Reports](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/home/module/1)**
 
----
+<br>
 
 ## 🧠 What You’ll Learn
 
@@ -18,7 +18,8 @@ Today's task
 - Basic components: visual pane, fields pane, canvas
 - How to create a simple sales report from scratch
 
----
+<br>
+
 
 ## 🖼️ Key Concepts
 
@@ -45,20 +46,20 @@ Build a basic sales report using **table visualizations** and simple formatting.
 4. Explore other visuals in the pane — bar, column, pie
 5. Save your report as `Week3_Day1_SalesReport.pbix`
 
----
+<br>
 
-## 💡 Check Your Understanding
+## 💡 Check your understanding
 
 ✅ What makes a visualization effective?  
 ✅ What’s the difference between a **report** and a **dashboard**?  
 ✅ When would you use a **table** over a **bar chart**?
 
----
+<br>
 
 ## 📁 Resources from Module 1
 
-- 📺 [Video: What are visualizations?](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/home/module/1) (~7 min)  
-- 📺 [Video: Common visualizations](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/home/module/1) (~7 min)  
+- 📺 [Video: What are visualizations?]([https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/home/module/1](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/lecture/m1nqK/what-are-visualizations)) (~7 min)  
+- 📺 [Video: Common visualizations]([https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/home/module/1](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/lecture/sHNtG/common-visualizations)) (~7 min)  
 - 📖 Reading: *Explore business report types* (~10 min)  
 - 📖 Reading: *Report Editor in Power BI* (~10 min)  
 - 📖 Reading: *Visualizations pane overview* (~10 min)  
@@ -66,7 +67,7 @@ Build a basic sales report using **table visualizations** and simple formatting.
 
 > 🔗 Access the full module here: [Module 1 – Creating Visualizations and Reports](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/home/module/1)
 
----
+<br>
 
 ## 🏁 End of Day Reflection
 
