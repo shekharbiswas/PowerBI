@@ -1,4 +1,4 @@
-# 🔄 Day 1A: Understanding ETL & the Power BI Staging Area
+# 🔄 Understanding ETL & the Power BI Staging Area
 
 Welcome to Week 2! You're now moving beyond just connecting and transforming data — it’s time to think like a data engineer.
 
