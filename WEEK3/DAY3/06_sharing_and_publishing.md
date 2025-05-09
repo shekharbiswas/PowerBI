@@ -8,7 +8,7 @@ Publishing and sharing are where your reports come to life. You'll also explore 
 
 <br>
 
-## 📅 Today's time commitment
+## 📅 Time commitment
 
 | Activity type         | Estimated time |
 |------------------------|----------------|
