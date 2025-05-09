@@ -151,7 +151,7 @@ And when you're ready, you can confidently go for the **PL-300 certification** �
 - ✅ Use AI visuals to explain complex patterns  
 - ✅ Perform advanced analytics with confidence  
 - ✅ Complete and present a final Power BI report  
-- ✅ Be ready to take on the PL-300 exam  
+- ✅ Be ready to start preparing for the PL-300 exam  
 
 </details>
 
