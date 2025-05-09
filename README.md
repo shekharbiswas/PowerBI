@@ -27,7 +27,7 @@ By the end of this journey, you'll be equipped to build **real-world reports**, 
 
 <br>
 
-## ⚙️ Week 1: Connecting & Transforming Data
+## ⚙️ Week 1: Data Sources in Power BI
 
 <details>
 <summary>🔌 This Week, You’ll Explore</summary>
@@ -59,7 +59,7 @@ By the end of this journey, you'll be equipped to build **real-world reports**, 
 
 <br>
 
-## 🛠️ Week 2: Profiling, Loading, and Best Practices
+## 🛠️ Week 2: Advanced ETL
 
 <details>
 <summary>🧪 This Week, You’ll Explore</summary>
