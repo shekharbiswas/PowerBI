@@ -49,4 +49,42 @@ This session focuses on **performance tuning** using Power BI’s built-in tools
 Use tools and techniques to diagnose and improve report speed.
 
 ### Steps:
-1. Open your `SalesReport
+1. Open your `SalesReport_Interactive.pbix`  
+2. Launch **Performance Analyzer** (View tab → Performance Analyzer)  
+3. Record performance and find the slowest visual  
+4. Rewrite any inefficient DAX measures using **variables**  
+5. Try different visual types or filters to compare impact  
+6. Save as `SalesReport_Optimized.pbix`
+
+<br>
+
+## 💡 Check your understanding
+
+✅ What’s the main cause of slow reports in Power BI?  
+✅ How do variables improve DAX performance?  
+✅ What can you do if a single visual slows down the entire report?
+
+<br>
+
+## 📁 Resources from module 3 (Part 3)
+
+- 📺 *Video: Introduction to the Performance Analyzer* (~6 min)  
+- 📖 *Reading: Tuning report performance* (~10 min)  
+- 📺 *Video: Resolving performance issues in DAX* (~8 min)  
+- 📺 *Video: Using variables for performance* (~8 min)  
+- 📺 *Video: Using variables for troubleshooting* (~8 min)  
+- 📖 *Reading: Exercise – Improving DAX performance* (~30 min)  
+- 🧠 *Quiz: Optimizing reports* (~15 min)
+
+> 🔗 Full module: [Module 3 – Creating dashboards and sharing reports](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/home/module/3)
+
+<br>
+
+## 🏁 End of session reflection
+
+You’ve now taken control of **how your reports run**, not just how they look.
+
+Next, we’ll wrap up the week by reviewing key concepts, finalizing your project, and reflecting on your journey from raw data to optimized dashboards.
+
+Performance is power. ⚡📉
+
