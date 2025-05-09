@@ -8,7 +8,7 @@ In this session, you’ll get familiar with the **Power BI Report Editor interfa
 
 <br>
 
-## 📅 Today's time commitment
+## 📅 Time commitment
 
 | Activity type | Estimated time |
 |---------------|----------------|
