@@ -13,7 +13,7 @@ You'll gain real, hands-on skills in:
 
 And when you're ready, you can confidently go for the **PL-300 certification** — proof to employers that you’re ready to lead with data.
 
-
+<br>
 <br>
 
 <p align="center">
