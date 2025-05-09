@@ -53,8 +53,7 @@ If you just completed this course:
 
 | Prep Style     | Time Needed     | Notes                                                  |
 |----------------|------------------|----------------------------------------------------------|
-| Casual (1–2 hrs/day) | ~4–6 weeks       | Best for working professionals                           |
-| Focused (3–4 hrs/day) | ~2–3 weeks       | Good for students or career switchers                   |
+| Focused (3–4 hrs/day) | ~2–3 weeks       | Good for students with moderate Power BI knowledge    |
 | Fast track     | ~7–10 days       | Only if you already mastered Power BI concepts               |
 
 > 💡 Add time if you’re completely new to DAX or data modeling.
