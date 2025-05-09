@@ -1,0 +1,65 @@
+# 📘 Week 1 Overview: Getting Data Into Power BI
+
+Welcome to Week 1 of your Power BI learning journey at **Dataskools**. This week is all about the **first step of any analytics project** — getting the data in.
+
+We will explore how Power BI connects to different data sources, how storage modes impact performance, and how to prepare and transform data using Power Query. By the end of the week, you'll be able to confidently combine, clean, and shape data from multiple sources — a skill every data analyst needs.
+
+---
+
+## 🗓️ Weekly Breakdown
+
+| Day | Topic                               | Focus Area                                                            |
+|-----|-------------------------------------|------------------------------------------------------------------------|
+| 1   | **Exploring Data Sources**          | Understand flat vs. structured data, connectors, storage modes, triggers |
+| 2   | **Setting Up & Storing Data**       | Hands-on with Excel sources, choosing the right storage mode          |
+| 3   | **Transforming Data with Power Query** | Learn how to clean, reshape, pivot, and fix data issues               |
+| 4   | **Combining and Joining Tables**    | Master merging, appending, and understanding joins                    |
+
+---
+
+## 🎯 Learning Objectives
+
+By the end of this week, you will be able to:
+
+- Identify and connect to structured/unstructured data sources
+- Choose appropriate storage modes for different business needs
+- Use Power Query to clean and transform raw data
+- Combine data from multiple sources using append and merge operations
+
+---
+
+## 🧠 Difficulty Matrix – Week 1
+
+| Topic Area                      | Difficulty | Notes                                                                 |
+|--------------------------------|------------|-----------------------------------------------------------------------|
+| Connecting to data sources     | 🟢 Easy     | Beginner-friendly with visual tools and drag-and-drop options         |
+| Choosing storage modes         | 🟡 Medium   | Conceptual understanding required; affects performance and refresh    |
+| Power Query basics             | 🟢 Easy     | Interface is intuitive, similar to Excel                              |
+| Pivot/Unpivot columns          | 🟡 Medium   | Requires a bit of experimentation to fully grasp                      |
+| Combining data (append/merge)  | 🟡 Medium   | Joins require logic, especially when choosing join keys               |
+
+---
+
+## 🧰 Tools Used This Week
+
+- **Power BI Desktop** for hands-on practice
+- **Power Query Editor** for transformation tasks
+- **Sample Excel datasets** for exercises
+
+> 🗒️ *Make sure Power BI Desktop is installed before you begin!*
+
+---
+
+## 🏁 End-of-Week Outcomes
+
+By Friday, you should be able to:
+
+✅ Set up and connect to various data sources  
+✅ Use Power Query to clean and reshape data  
+✅ Merge or append data tables based on business needs  
+✅ Reflect on which storage mode fits which use case  
+✅ Build confidence with foundational ETL concepts in Power BI
+
+---
+
+➡️ Let’s begin with [Day 1 – Exploring Data Sources](01_day1_data_sources.md)
