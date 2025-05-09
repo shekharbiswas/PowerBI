@@ -21,7 +21,7 @@ Power BI gives you tools to fix these — **quickly, visually, and repeatably**.
 
 <br>
 
-## ✅ What To Do in Coursera
+## ✅ What to do in Coursera
 
 Stay in [Module 2](https://www.coursera.org/learn/extract-transform-and-load-data-in-power-bi/home/module/2) and complete:
 
