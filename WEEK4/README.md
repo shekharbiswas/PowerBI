@@ -41,15 +41,17 @@ By the end of this week, you will be able to:
 
 ## 📈 Difficulty snapshot – Week 4
 
-| 🧠 Topic Area             | ⚙️ Difficulty | 💬 What to Expect                                                    |
-|---------------------------|---------------|----------------------------------------------------------------------|
-| 📊 Clustering & binning    | 🟡 Medium      | Involves understanding group logic and category breakdowns           |
-| 📈 Forecasting             | 🔴 Hard        | Requires time-based data and interpretation of prediction ranges     |
-| 🤖 AI visuals              | 🟡 Medium      | User-friendly but conceptually deep in how Power BI interprets data |
-| 📋 Executive summary       | 🟢 Easy        | Focused on storytelling, layout, and clarity                         |
-| 🧠 Reflection & planning   | 🟢 Easy        | Thoughtful review, no technical difficulty                           |
+| 🧠 Topic Area                  | ⚙️ Difficulty | 💬 What to Expect                                                               |
+|-------------------------------|---------------|----------------------------------------------------------------------------------|
+| 📊 Clustering & binning        | 🟡 Medium      | Involves grouping and segmenting data for visual pattern recognition             |
+| 📈 Forecasting                 | 🔴 Hard        | Requires understanding trends, seasonality, and confidence intervals             |
+| 🤖 AI visuals                  | 🟡 Medium      | Intuitive to use, but require good interpretation and context                    |
+| 📋 Executive summary report    | 🟢 Easy        | Focused on layout, storytelling, and clear communication                         |
+| 🧠 Reflection & career planning| 🟢 Easy        | Personal and professional review of your learning journey                        |
+| 🧪 PL-300 prep & integration   | 🟡 Medium      | Combines skills from all modules for real-world and certification readiness      |
 
-> 💡 **Tip:** This week is about insight, not just charts. Let your visuals explain the *why*, not just the *what*.
+> 💡 **Tip:** This week is about insight, not just charts. It’s also about **proving your skills** and preparing to go from learner to certified Power BI analyst.
+
 
 <br>
 
