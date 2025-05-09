@@ -6,6 +6,15 @@ We will explore how Power BI connects to different data sources, how storage mod
 
 <br>
 
+<br>
+
+<p align="center">
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/0e4db641-9cf0-43ce-aa51-0237151c4bad" />
+</p>
+
+<br>
+
+
 ## 🗓️ Weekly Breakdown
 
 | Day | Topic                               | Focus Area                                                            |
