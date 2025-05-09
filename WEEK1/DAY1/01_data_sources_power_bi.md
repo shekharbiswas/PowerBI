@@ -1,6 +1,19 @@
 # 📅 Exploring Data Sources in Power BI
 
-Welcome to Day 1 of your Power BI journey. Today is all about **where your data comes from** and how Power BI connects to those sources.
+Welcome to **Day 1** of your Power BI journey at **Dataskools**! 🎉  
+You're not just learning a tool — you're stepping into the role of someone who can turn raw information into smart business decisions.
+
+Every dashboard begins with a question:  
+> *"Where is my data, and how do I bring it all together?"*
+
+Whether it’s a simple Excel file, a folder full of CSVs, or a live feed from a cloud service, knowing how to connect to your data is the first (and often most important) step in analysis.
+
+Today, you’ll learn how to:
+- Identify different types of data sources
+- Understand how Power BI connects to them
+- Set the foundation for all the reports you'll create in future weeks
+
+> 💬 **Real-world tip:** In most jobs, you won’t get clean, ready-to-use data. You’ll be the person who needs to **find it, connect it, and make it useful** — that’s where this journey begins.
 
 <br>
 
