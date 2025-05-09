@@ -9,8 +9,9 @@ You’ll explore **data profiling**, learn how to handle **bad or missing data**
 <br>
 
 <p align="center">
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/161d09fe-b2f4-4677-8798-dcda7a8c4d49" />
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/12702847-d27c-4840-89ce-3a29d13d1b8e" />
 </p>
+
 
 
 <br>
