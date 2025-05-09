@@ -1,90 +1,87 @@
-# 📊 Exploring chart types and visual storytelling
+# 🧩 Formatting and accessibility essentials (Module 2 – Part 1)
 
-Welcome to Day 2! Today you’ll explore the wide variety of **charts available in Power BI** — and more importantly, when and why to use them.
+Welcome to **Day 2**! Today you'll begin **Module 2** by learning how to make your reports not just beautiful — but **usable and inclusive**.
 
-We’ll focus on creating **meaningful visuals** like bar charts, combo charts, pie charts, and treemaps. You'll learn to pick the right visual for your data, and start telling compelling business stories using layout and visual choice.
+In this session, you’ll apply formatting techniques, explore accessibility guidelines, use consistent themes, and add helpful tooltips to improve how users interact with your reports.
 
-🔗 **[Visualizing data & creating reports – Module 1](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/home/module/1)**
+🔗 **[Module 2 – Designing accessible and interactive reports](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/home/module/2)**
 
 <br>
 
-## 📅 Today's time commitment
+## 📅 Time commitment
 
 | Activity type         | Estimated time |
 |------------------------|----------------|
-| 🎥 Watch videos         | ~35 minutes     |
-| 📖 Read content         | ~40 minutes     |
-| 🛠️ Practice activities  | ~60 minutes     |
-| 🔄 Quiz & review        | ~25 minutes     |
-| ✍️ Reflection + notes   | ~50 minutes     |
-| **Total**              | **~3.5 hours**     |
+| 🎥 Watch videos         | ~25 minutes     |
+| 📖 Read content         | ~35 minutes     |
+| 🛠️ Practice activities  | ~40 minutes     |
+| 📝 Self-review & quiz   | ~20 minutes     |
+| 🧠 Reflection           | ~45 minutes     |
+| **Total**              | **~3 hours**  |
 
 <br>
 
 ## 🧠 What you’ll learn
 
-- Key differences between bar, column, line, and combo charts  
-- When to use pie charts and donut charts  
-- How to create treemaps for category comparisons  
-- Common **mistakes to avoid** in visual storytelling  
-- How to enhance your sales report with visual variety  
+- How to format visuals for consistency and readability  
+- What makes a report accessible for all users  
+- How to apply and customize Power BI themes  
+- How to use conditional formatting to draw attention  
+- How to create helpful, non-intrusive tooltips  
 
 <br>
 
 ## 🖼️ Key concepts
 
-| Chart Type          | Best Use Case                                                             |
-|---------------------|---------------------------------------------------------------------------|
-| **Bar/column**      | Comparing totals or categories side-by-side                               |
-| **Line/area**       | Showing trends over time                                                  |
-| **Combo**           | Highlighting values with mixed chart types (e.g., bar + line)             |
-| **Pie/donut**       | Showing parts of a whole — but only a few categories                      |
-| **Treemap**         | Visualizing hierarchical or grouped data with size-weighted rectangles    |
+| Feature                      | Description                                                                 |
+|------------------------------|-----------------------------------------------------------------------------|
+| **Conditional formatting**   | Automatically adjust colors based on thresholds or categories               |
+| **Themes**                   | Predefined styles for consistent visual design                              |
+| **Accessibility**            | Techniques to support screen readers, colorblind users, etc.                |
+| **Tooltips**                 | Hover-text guidance to help users interpret visuals                         |
+| **Design best practices**    | Improve alignment, clarity, and overall experience                          |
 
 <br>
 
-## 🛠️ Practice task: Chart comparison report
+## 🛠️ Practice task: Accessibility upgrade
 
 ### Goal:
-Add multiple visual types to your report and practice switching between them.
+Improve the clarity, consistency, and accessibility of your sales report.
 
 ### Steps:
 1. Open your `SalesReport_Final.pbix`  
-2. Add a **stacked column chart** for revenue by region  
-3. Add a **line chart** to show sales trend over months  
-4. Try converting a pie chart to a donut chart — what changes?  
-5. Create a **treemap** to compare revenue by product subcategory  
-6. Save your work as `SalesReport_Charts.pbix`
+2. Apply a **color theme** designed for accessibility (e.g., high contrast)  
+3. Add **conditional formatting** to highlight low values in red  
+4. Create **custom tooltips** for at least 2 charts  
+5. Simulate a screen reader or use accessibility checker  
+6. Save as `SalesReport_Accessible.pbix`
 
 <br>
 
 ## 💡 Check your understanding
 
-✅ When is a pie chart a bad choice?  
-✅ How does a combo chart help show correlation?  
-✅ What does the treemap help you quickly spot?
+✅ How do themes help your report remain consistent?  
+✅ What are 2 visual design choices that improve accessibility?  
+✅ Why are tooltips useful in dense dashboards?
 
 <br>
 
-## 📁 Resources from module 1
+## 📁 Resources from module 2 (Part 1)
 
-- 📺 [Video: Bar and column charts](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/lecture/YWeqz/bar-and-column-charts) (~6 min)  
-- 📺 [Video: Line and area charts](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/lecture/VYDDc/line-and-area-charts) (~7 min)  
-- 📺 [Video: Combo charts](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/lecture/yCLDL/combo-charts) (~5 min)  
-- 📖 Reading: *Activity – Using bars, columns, and lines* (~10 min)  
-- 📺 [Video: Pie and donut charts](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/lecture/lazFw/pie-and-donut-charts) (~6 min)  
-- 📺 [Video: Treemaps](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/lecture/VKf9g/treemaps) (~5 min)  
-- 📖 Reading: *Activity – Enhance the report with brand information* (~10 min)  
-- 🧠 Quiz: *Basic visualizations* (~15 min)
-
-> 🔗 Access the full module here: [Module 1 – Creating visualizations and reports](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/home/module/1)
+- 📺 [Video: Accessibility in reports](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/lecture/7tu4l/accessibility-in-reports) (~7 min)  
+- 📺 [Video: Formatting and configuring visualizations](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/lecture/SUGKU/formatting-and-configuring-visualizations) (~6 min)  
+- 📺 [Video: Conditional formatting](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/lecture/YxdvK/conditional-formatting) (~5 min)  
+- 📺 [Video: Working with themes](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/lecture/D7W2o/working-with-themes) (~6 min)  
+- 📖 Reading: *Design best practices* (~10 min)  
+- 📖 Reading: *Activity – Creating an accessible report* (~30 min)  
+- 📖 Reading: *Additional resources – Designing an accessible report* (~5 min)  
+- 🧠 Quiz: *Designing an accessible report* (~15 min)
 
 <br>
 
-## 🏁 End of day reflection
+## 🏁 End of session reflection
 
-You now know how to select and apply the **right visual for the right job**.
+Today, you moved beyond charts and into the world of **user-focused design**.  
+Tomorrow, you'll make your reports interactive — with filters, buttons, slicers, and drillthroughs — to give users control over the insights they explore.
 
-Think beyond just pretty visuals — aim to **clarify insight** and **guide decisions**. Tomorrow, you’ll expand this skillset further with KPIs, matrix visuals, and performance indicators.
-
-Your visual vocabulary is growing fast — keep up the momentum! 🔥📊
+Design is not just about how it looks. It’s about how it works. 💡🎛️
