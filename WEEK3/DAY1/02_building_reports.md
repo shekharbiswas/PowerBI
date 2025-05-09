@@ -15,8 +15,8 @@ In this session, you’ll get familiar with the **Power BI Report Editor interfa
 | 🎥 Watch videos | ~19 minutes     |
 | 📖 Read content | ~40 minutes     |
 | 🛠️ Practice task | ~30 minutes     |
-| 🔄 Self-review & quiz | ~15 minutes     |
-| **Total**     | **~2 hours**     |
+| 🔄 Self-review & quiz | ~45 minutes     |
+| **Total**     | **~2.5 hours**     |
 
 <br>
 
