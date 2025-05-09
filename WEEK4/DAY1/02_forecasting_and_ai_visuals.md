@@ -8,7 +8,7 @@ In this session, you'll learn how to use Power BI’s **forecasting tools**, add
 
 <br>
 
-## 📅 Today's time commitment
+## 📅 Ttime commitment
 
 | Activity type         | Estimated time |
 |------------------------|----------------|
@@ -16,8 +16,8 @@ In this session, you'll learn how to use Power BI’s **forecasting tools**, add
 | 📖 Read content         | ~30 minutes     |
 | 🛠️ Practice activities  | ~45 minutes     |
 | 🧠 Self-review & quiz   | ~15 minutes     |
-| ✍️ Wrap-up & notes      | ~10 minutes     |
-| **Total**              | **~2.25 hours** |
+| ✍️ Wrap-up & notes      | ~25 minutes     |
+| **Total**              | **~2.5 hours** |
 
 <br>
 
