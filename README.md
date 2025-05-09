@@ -1,6 +1,13 @@
 # 📊 Welcome to Your Power BI Learning Track
 
-This Power BI track is your gateway to mastering **data connections, transformation, analysis, and storytelling**. You’ll move from understanding raw data to creating powerful dashboards that drive business decisions — all using Microsoft Power BI.
+At **Dataskools**, we believe in empowering students to stay ahead in the fast-paced world of data analytics. One of the most in-demand skills today is proficiency in **Power BI**, a tool used by top organizations worldwide to make data-driven decisions. As the business landscape continues to evolve, companies need professionals who can transform raw data into insightful reports and compelling visualizations.
+
+By **providing** part of Coursera's **Microsoft Power BI Data Analyst Professional Certificate** in our curriculum, we offer our students an opportunity to gain industry-recognized certification from Microsoft. This certificate not only opens doors to high-paying roles but also enhances career prospects in the ever-growing field of business intelligence. The course is designed for beginners, meaning you don’t need prior experience to start. Over the course of 8 carefully crafted modules, you will gain essential skills in **data analysis**, **visualizations**, and **ETL (Extract, Transform, Load)** processes.
+
+At **Dataskools**, we focus on giving students a comprehensive foundation in Power BI’s core functionalities. By teaching **ETL** and the techniques of data analysis and visualization, we ensure that you are well-equipped to create impactful reports and dashboards. These skills will help you build a solid portfolio, showcasing tangible results of your learning in real-world scenarios. After mastering these core concepts with us, you will be well-positioned to continue your learning journey and work independently to complete the remaining parts of the Coursera course.
+
+In addition, completing the course on Coursera will provide you with the option to earn a **PL-300 certification** — a credential recognized by employers across the globe. 
+This certification validates your ability to perform tasks like connecting to data sources, transforming data, creating data models, and designing dashboards. 
 
 By the end of this journey, you'll be equipped to build **real-world reports**, explain insights clearly, and take the next step toward the **PL-300 certification** — a globally recognized credential for Power BI professionals.
 
