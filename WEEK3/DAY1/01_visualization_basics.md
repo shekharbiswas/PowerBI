@@ -8,15 +8,15 @@ In this session, you'll explore **what visualizations are**, learn about **commo
 
 <br>
 
-## 📅 Today's time commitment
+## 📅 Time commitment
 
 | Activity type | Estimated time |
 |---------------|----------------|
 | 🎥 Watch videos | ~14 minutes     |
 | 📖 Read content | ~30 minutes     |
 | 🛠️ Practice task | ~30 minutes     |
-| 🔄 Reflection/review | ~10 minutes     |
-| **Total**     | **~1.5 hours**   |
+| 🔄 Reflection/review | ~40 minutes     |
+| **Total**     | **~2 hours**   |
 
 <br>
 
