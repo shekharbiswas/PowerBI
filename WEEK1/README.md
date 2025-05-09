@@ -1,10 +1,10 @@
-# 📘 Week 1 Overview: Getting Data Into Power BI
+# 📘 Overview: Getting Data Into Power BI
 
 Welcome to Week 1 of your Power BI learning journey at **Dataskools**. This week is all about the **first step of any analytics project** — getting the data in.
 
 We will explore how Power BI connects to different data sources, how storage modes impact performance, and how to prepare and transform data using Power Query. By the end of the week, you'll be able to confidently combine, clean, and shape data from multiple sources — a skill every data analyst needs.
 
----
+<br>
 
 ## 🗓️ Weekly Breakdown
 
@@ -15,7 +15,7 @@ We will explore how Power BI connects to different data sources, how storage mod
 | 3   | **Transforming Data with Power Query** | Learn how to clean, reshape, pivot, and fix data issues               |
 | 4   | **Combining and Joining Tables**    | Master merging, appending, and understanding joins                    |
 
----
+<br>
 
 ## 🎯 Learning Objectives
 
@@ -38,7 +38,7 @@ By the end of this week, you will be able to:
 | Pivot/Unpivot columns          | 🟡 Medium   | Requires a bit of experimentation to fully grasp                      |
 | Combining data (append/merge)  | 🟡 Medium   | Joins require logic, especially when choosing join keys               |
 
----
+<br>
 
 ## 🧰 Tools Used This Week
 
@@ -48,7 +48,7 @@ By the end of this week, you will be able to:
 
 > 🗒️ *Make sure Power BI Desktop is installed before you begin!*
 
----
+<br>
 
 ## 🏁 End-of-Week Outcomes
 
@@ -60,6 +60,5 @@ By Friday, you should be able to:
 ✅ Reflect on which storage mode fits which use case  
 ✅ Build confidence with foundational ETL concepts in Power BI
 
----
+<br>
 
-➡️ Let’s begin with [Day 1 – Exploring Data Sources](01_day1_data_sources.md)
