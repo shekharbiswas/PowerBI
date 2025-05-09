@@ -4,7 +4,11 @@ Today marks your entry into the **visualization layer** of Power BI — where ra
 
 In this session, you'll explore **what visualizations are**, learn about **common types**, and build your **very first business report** using Power BI's Report Editor. These skills are foundational to presenting insights clearly and effectively to your audience.
 
-<br>
+Today's task
+
+🔗 **[Visualizing Data & Creating Reports](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/home/module/1)**
+
+---
 
 ## 🧠 What You’ll Learn
 
@@ -14,7 +18,7 @@ In this session, you'll explore **what visualizations are**, learn about **commo
 - Basic components: visual pane, fields pane, canvas
 - How to create a simple sales report from scratch
 
-<br>
+---
 
 ## 🖼️ Key Concepts
 
@@ -27,7 +31,7 @@ In this session, you'll explore **what visualizations are**, learn about **commo
 | **Fields pane**           | Drag-and-drop dimensions and measures from your dataset                      |
 | **Canvas**                | The main workspace to design your report layout                             |
 
-<br>
+---
 
 ## 🛠️ Practice Task: Create Your First Report
 
@@ -41,7 +45,7 @@ Build a basic sales report using **table visualizations** and simple formatting.
 4. Explore other visuals in the pane — bar, column, pie
 5. Save your report as `Week3_Day1_SalesReport.pbix`
 
-<br>
+---
 
 ## 💡 Check Your Understanding
 
@@ -49,18 +53,20 @@ Build a basic sales report using **table visualizations** and simple formatting.
 ✅ What’s the difference between a **report** and a **dashboard**?  
 ✅ When would you use a **table** over a **bar chart**?
 
-<br>
+---
 
-## 📁 Resources
+## 📁 Resources from Module 1
 
-- 📺 [Video: What are visualizations?](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi) (~7 min)  
-- 📺 [Video: Common visualizations](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi) (~7 min)  
+- 📺 [Video: What are visualizations?](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/home/module/1) (~7 min)  
+- 📺 [Video: Common visualizations](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/home/module/1) (~7 min)  
 - 📖 Reading: *Explore business report types* (~10 min)  
 - 📖 Reading: *Report Editor in Power BI* (~10 min)  
 - 📖 Reading: *Visualizations pane overview* (~10 min)  
 - 💡 Exercise: *Create a sales report* (~30 min)
 
-<br>
+> 🔗 Access the full module here: [Module 1 – Creating Visualizations and Reports](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/home/module/1)
+
+---
 
 ## 🏁 End of Day Reflection
 
