@@ -8,7 +8,7 @@ This session covers the **second half of Module 1**, helping you go from simple 
 
 <br>
 
-## 📅 Today's time commitment
+## 📅 Time commitment
 
 | Activity type         | Estimated time |
 |------------------------|----------------|
