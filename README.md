@@ -91,7 +91,7 @@ And when you're ready, you can confidently go for the **PL-300 certification** â
 
 </details>
 
----
+<br>
 
 ## ðŸŽ¨ Week 3: Reports, Visuals & Interactivity
 
