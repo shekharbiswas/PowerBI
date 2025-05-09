@@ -1,4 +1,4 @@
-# 📊 Day 1: Foundations of Visual Reporting
+# 📊 Foundations of Visual Reporting
 
 Today marks your entry into the **visualization layer** of Power BI — where raw data meets storytelling.
 
