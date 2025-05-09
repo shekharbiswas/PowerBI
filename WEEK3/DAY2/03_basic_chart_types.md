@@ -68,10 +68,10 @@ Improve the clarity, consistency, and accessibility of your sales report.
 
 ## 📁 Resources from module 2 (Part 1)
 
-- 📺 [Video: Accessibility in reports](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/lecture/7tu4l/accessibility-in-reports) (~7 min)  
-- 📺 [Video: Formatting and configuring visualizations](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/lecture/SUGKU/formatting-and-configuring-visualizations) (~6 min)  
-- 📺 [Video: Conditional formatting](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/lecture/YxdvK/conditional-formatting) (~5 min)  
-- 📺 [Video: Working with themes](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/lecture/D7W2o/working-with-themes) (~6 min)  
+- 📺 [Video: Accessibility in reports](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/lecture/6S9UB/accessibility-in-reports) (~7 min)  
+- 📺 [Video: Formatting and configuring visualizations](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/lecture/xDsBH/formatting-and-configuring-visualizations) (~6 min)  
+- 📺 [Video: Conditional formatting](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/lecture/HKnpE/conditional-formatting) (~5 min)  
+- 📺 [Video: Working with themes](https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi/lecture/HAGqt/working-with-themes) (~6 min)  
 - 📖 Reading: *Design best practices* (~10 min)  
 - 📖 Reading: *Activity – Creating an accessible report* (~30 min)  
 - 📖 Reading: *Additional resources – Designing an accessible report* (~5 min)  
