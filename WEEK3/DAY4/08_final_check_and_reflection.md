@@ -17,8 +17,8 @@ This is your chance to **review key concepts**, complete a **mini-project**, and
 | 📝 Final review task     | ~30 minutes     |
 | 🛠️ Project cleanup       | ~30 minutes     |
 | 🧠 Knowledge checks      | ~30 minutes     |
-| 💬 Self-reflection       | ~15 minutes     |
-| **Total**              | **~1.5–2 hours** |
+| 💬 Self-reflection       | ~45 minutes     |
+| **Total**              | **~2 hours** |
 
 <br>
 
