@@ -24,7 +24,7 @@ ETL is the foundation of every business intelligence system. If it’s done poor
 
 <br>
 
-## ✅ What To Do in Coursera
+## ✅ What to do in Coursera
 
 Go to [Module 4](https://www.coursera.org/learn/extract-transform-and-load-data-in-power-bi/home/module/4) and complete:
 
