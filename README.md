@@ -11,6 +11,14 @@ This certification validates your ability to perform tasks like connecting to da
 
 By the end of this journey, you'll be equipped to build **real-world reports**, explain insights clearly, and take the next step toward the **PL-300 certification** — a globally recognized credential for Power BI professionals.
 
+
+<br>
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/424fe6bd-a6d8-4d34-81d1-215f369ffea5" />
+
+<br>
+
+
 <br>
 
 <p align="center">
