@@ -126,7 +126,7 @@ This section focuses on **publishing, sharing, and securing** your reports:
 
 📘 **We advise to go deeper before attempting PL-300?**  
 
-Here are four Coursera courses that align directly with these skills:
+Here are four courses that align directly with these skills:
 
 - 🔗 [Data Modeling in Power BI](https://www.coursera.org/learn/data-modeling-in-power-bi?specialization=microsoft-power-bi-data-analyst)  
 - 🔗 [Creative Designing in Power BI](https://www.coursera.org/learn/creative-designing-in-power-bi?specialization=microsoft-power-bi-data-analyst)  
