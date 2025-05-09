@@ -8,8 +8,9 @@ You’ll learn how to build reports and dashboards, apply best practices for acc
 <br>
 <br>
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/5e849758-06b7-4bb7-a6b1-1830cf81b2a7" />
-
+<p align="center">
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/5e849758-06b7-4bb7-a6b1-1830cf81b2a7" />
+</p>
 
 <br>
 <br>
