@@ -1,4 +1,4 @@
-# 📝 Day 4B: Quiz, Reflection & What’s Next
+# 📝 Quiz, Reflection & What’s Next
 
 🎉 Congratulations — you’ve made it to the end of **Week 2**!  
 This is your time to pause, reflect, and **solidify everything you’ve learned** before moving on to data modeling and visualization.
