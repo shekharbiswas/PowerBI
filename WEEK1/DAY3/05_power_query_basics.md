@@ -29,7 +29,7 @@ Think of it as a recipe — each time you transform your data, Power BI records 
 
 <br>
 
-## ✅ What To Do in Coursera
+## ✅ What to do in Coursera
 
 Go to [Module 2](https://www.coursera.org/learn/extract-transform-and-load-data-in-power-bi/home/module/2) and complete:
 
