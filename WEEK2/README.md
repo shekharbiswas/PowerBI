@@ -6,6 +6,15 @@ This week, you’ll shift from transforming data to making it **reliable, scalab
 You’ll explore **data profiling**, learn how to handle **bad or missing data**, and get hands-on with **advanced ETL techniques** like reference queries and the Advanced Editor. Then you’ll apply all your skills in a **final project** to prepare multiple data sources — just like you would on a real job.
 
 <br>
+<br>
+
+<p align="center">
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/d08a2f66-b30d-46aa-9215-813e9da83386" />
+</p>
+
+<br>
+<br>
+
 
 ## 🗓️ Weekly Breakdown
 
