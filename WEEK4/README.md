@@ -1,7 +1,9 @@
 # 📊 Overview: Analysis, AI visuals & final project
 
 Welcome to **Week 4** — your final week in the Power BI learning journey with **Dataskools**.  
-This week, you’ll learn how to go beyond visuals and start **analyzing data patterns**, building forecasts, and using **AI-powered visuals** in Power BI.
+This week, you’ll learn how to go beyond visuals and start **analyzing data patterns**.
+
+You will build forecasts, and using **AI-powered visuals** in Power BI.
 
 You’ll also complete a final capstone-style project and reflect on how far you've come.
 
