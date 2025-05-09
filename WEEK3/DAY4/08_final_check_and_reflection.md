@@ -95,4 +95,4 @@ You’ve learned how to:
 Next week, you’ll begin exploring **data modeling** and **DAX logic** more deeply to prepare for scalable enterprise reporting.
 
 Your reports don’t just show data — they **tell a story**.  
-Well done, data analyst-in-progress! 📊🚀
+Well done! 📊🚀
