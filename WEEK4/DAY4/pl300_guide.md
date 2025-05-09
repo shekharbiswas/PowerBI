@@ -53,39 +53,92 @@ If you just completed this course:
 
 | Prep Style     | Time Needed     | Notes                                                  |
 |----------------|------------------|----------------------------------------------------------|
-| Focused (3–4 hrs/day) | ~2–3 weeks       | Good for students with moderate Power BI knowledge    |
-| Fast track     | ~7–10 days       | Only if you already mastered Power BI concepts               |
+| Focused (3 hrs/day) | 8 weeks       | Good for students with good Power BI knowledge    |
+| Fast track     | 4 weeks       | Only if you already mastered Power BI concepts and super confident              |
 
-> 💡 Add time if you’re completely new to DAX or data modeling.
+> 💡 Add time for covering extra modules like DAX or data modeling.
 
-### 🧮 What is DAX or data modeling?
+### 🧩 What to master before taking the PL-300 exam
 
+To pass the PL-300 exam and truly become a confident Power BI Data Analyst, you need to be solid in **four core skill areas** — all of which you've already started learning in this course.
 
-**DAX** (Data Analysis Expressions) is the formula language used in Power BI to create custom calculations, like totals, averages, or KPIs.  
-**Data modeling** is the process of structuring your data using relationships, tables, and hierarchies so your visuals work correctly and efficiently.
+Some areas, like **data modeling and DAX**, may take more effort if you're new — but with focused practice, you can absolutely master them.
 
-**Why does it matter?**  
-DAX (Data Analysis Expressions) is the formula language behind most calculations in Power BI — things like totals, KPIs, running averages, or dynamic filters.
+<br>
 
-**Data modeling** is how you structure your dataset: building relationships between tables, creating hierarchies, and defining how filters flow through your report.
+## 1️⃣ Prepare data (Power Query)
 
-These two areas are often the most **conceptually challenging** for new learners. They involve:
+Learn how to bring messy data into Power BI and get it ready for analysis. This includes:
 
-- Understanding **filter context** and **row context**
-- Writing **measures** using functions like `SUM`, `CALCULATE`, `FILTER`
-- Creating **calculated columns**, **relationships**, and **data hierarchies**
-- Knowing when to use a measure vs. a column
+- Connecting to Excel, CSV, databases, or web data  
+- Cleaning data using the Power Query Editor  
+- Removing errors, filtering rows, changing data types  
+- Combining datasets using merge and append  
+- Profiling data for missing values or duplicates
 
-If this is your first time working with DAX or models, expect to spend an **extra 1–2 weeks** reviewing examples, building small models, and experimenting with calculated fields.
+> ✅ You’ve already practiced these skills in Weeks 1 & 2.
 
-📘 Recommended courses:
-- 🔗 [Data Modeling in Power BI (Coursera)](https://www.coursera.org/learn/data-modeling-in-power-bi?specialization=microsoft-power-bi-data-analyst#modules)  
-- 🔗 [Microsoft PL-300 Exam Preparation and Practice (Coursera)](https://www.coursera.org/learn/microsoft-pl-300-exam-preparation-and-practice?specialization=microsoft-power-bi-data-analyst)
+<br>
 
-> ✨ *Once you get the hang of DAX and modeling, the rest of Power BI becomes much easier to use and much more powerful.*
+## 2️⃣ Model data (relationships, DAX)
 
-> ✨ *Once you understand DAX and modeling, the rest of Power BI feels easier and much more powerful.*
+This is where Power BI becomes powerful — but it’s also where many learners need extra time. You’ll need to:
 
+- Build **relationships** between tables (one-to-many, many-to-many)  
+- Understand **filter direction** and **cardinality**  
+- Write **DAX measures** using `SUM`, `CALCULATE`, `FILTER`, and time functions  
+- Create **calculated columns**, hierarchies, and manage table context  
+- Understand **filter context** vs. **row context**
+
+These are often the most **conceptually challenging** topics — but also the most valuable.
+
+> 💡 Plan for **1–2 extra weeks** if you’re new to DAX or modeling.
+
+<br>
+
+## 3️⃣ Visualize and analyze data
+
+This part is all about how you present insights. You should be able to:
+
+- Build bar charts, line charts, maps, slicers, and KPI cards  
+- Create interactive dashboards using bookmarks, drillthroughs, and filters  
+- Use **AI visuals** like Key Influencers, Decomposition Trees, and Q&A  
+- Apply conditional formatting and use themes  
+- Perform basic statistical analysis and forecasting
+
+> ✅ You’ve practiced this in Weeks 3 & 4.
+
+<br>
+
+## 4️⃣ Deploy and maintain reports
+
+This section focuses on **publishing, sharing, and securing** your reports:
+
+- Publish reports to Power BI Service  
+- Manage datasets and workspace permissions  
+- Use **row-level security (RLS)** to control access  
+- Schedule refresh and monitor performance  
+- Understand usage metrics and versioning
+
+> ✅ Covered in Week 4 and required for real-world projects.
+
+<br>
+
+📘 **We advise to go deeper before attempting PL-300?**  
+
+Here are four Coursera courses that align directly with these skills:
+
+- 🔗 [Data Modeling in Power BI](https://www.coursera.org/learn/data-modeling-in-power-bi?specialization=microsoft-power-bi-data-analyst)  
+- 🔗 [Creative Designing in Power BI](https://www.coursera.org/learn/creative-designing-in-power-bi?specialization=microsoft-power-bi-data-analyst)  
+- 🔗 [Deploy and Maintain Power BI Assets + Capstone](https://www.coursera.org/learn/deploy-and-maintain-power-bi-assets-and-capstone-project?specialization=microsoft-power-bi-data-analyst)  
+- 🔗 [PL-300 Exam Preparation and Practice](https://www.coursera.org/learn/microsoft-pl-300-exam-preparation-and-practice?specialization=microsoft-power-bi-data-analyst)
+
+<br>
+
+💬 **Need help finishing your certification path?**  
+Talk to the **Dataskools team** for **personalized guidance**, a study plan, or feedback on mock projects.
+
+> ✨ *You don’t need to be perfect — just focused, consistent, and curious. This is achievable, and we’re here to support you.*
 
 ## 📝 What’s on the exam?
 
