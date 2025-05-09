@@ -8,7 +8,7 @@ This session is the **first half of Module 1**, where you'll explore **what visu
 
 <br>
 
-## 📅 Today's time commitment
+## 📅 Time commitment
 
 | Activity type | Estimated time |
 |---------------|----------------|
