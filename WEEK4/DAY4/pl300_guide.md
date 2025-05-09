@@ -43,7 +43,7 @@ It’s like a final exam for your Power BI learning journey — and passing it s
 | Add interactivity and AI   | Week 4           |
 | Publish and share          | Week 3 & 4       |
 
-> 📌 You've already covered more than **60% of what PL-300 tests**.
+> 📌 You've already covered more than **50% of what PL-300 tests**.
 
 <br>
 
