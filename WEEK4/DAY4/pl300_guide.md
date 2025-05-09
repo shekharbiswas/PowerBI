@@ -58,7 +58,34 @@ If you just completed this course:
 
 > 💡 Add time if you’re completely new to DAX or data modeling.
 
-<br>
+### 🧮 What is DAX or data modeling?
+
+
+**DAX** (Data Analysis Expressions) is the formula language used in Power BI to create custom calculations, like totals, averages, or KPIs.  
+**Data modeling** is the process of structuring your data using relationships, tables, and hierarchies so your visuals work correctly and efficiently.
+
+**Why does it matter?**  
+DAX (Data Analysis Expressions) is the formula language behind most calculations in Power BI — things like totals, KPIs, running averages, or dynamic filters.
+
+**Data modeling** is how you structure your dataset: building relationships between tables, creating hierarchies, and defining how filters flow through your report.
+
+These two areas are often the most **conceptually challenging** for new learners. They involve:
+
+- Understanding **filter context** and **row context**
+- Writing **measures** using functions like `SUM`, `CALCULATE`, `FILTER`
+- Creating **calculated columns**, **relationships**, and **data hierarchies**
+- Knowing when to use a measure vs. a column
+
+If this is your first time working with DAX or models, expect to spend an **extra 1–2 weeks** reviewing examples, building small models, and experimenting with calculated fields.
+
+📘 Recommended courses:
+- 🔗 [Data Modeling in Power BI (Coursera)](https://www.coursera.org/learn/data-modeling-in-power-bi?specialization=microsoft-power-bi-data-analyst#modules)  
+- 🔗 [Microsoft PL-300 Exam Preparation and Practice (Coursera)](https://www.coursera.org/learn/microsoft-pl-300-exam-preparation-and-practice?specialization=microsoft-power-bi-data-analyst)
+
+> ✨ *Once you get the hang of DAX and modeling, the rest of Power BI becomes much easier to use and much more powerful.*
+
+> ✨ *Once you understand DAX and modeling, the rest of Power BI feels easier and much more powerful.*
+
 
 ## 📝 What’s on the exam?
 
