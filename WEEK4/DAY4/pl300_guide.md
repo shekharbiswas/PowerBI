@@ -4,6 +4,9 @@ If you enjoyed this course and want to **prove your Power BI skills professional
 
 It’s a globally recognized certification by Microsoft — designed for **anyone who analyzes data and shares reports to help others make decisions**. That’s exactly what you’ve been learning here.
 
+<p align="center">
+  <img width="600" alt="PL-300 Badge" src="https://github.com/user-attachments/assets/10dfa3dd-f46e-4382-97b2-3d41470a6fa5" />
+</p>
 <br>
 
 ## 🧠 In simple terms, what is PL-300?
@@ -16,6 +19,18 @@ It’s a test that proves you can:
 ✅ Share and maintain them using the Power BI Service  
 
 It’s like a final exam for your Power BI learning journey — and passing it shows employers you know what you’re doing.
+
+<br>
+
+## 🚀 Why should you try PL-300?
+
+✅ **It builds your credibility** – You’ll be officially certified by Microsoft as a Power BI Data Analyst.  
+✅ **It increases your visibility** – Recruiters filter for “Microsoft Certified” in search tools like LinkedIn.  
+✅ **It helps you grow your salary** – Certified Power BI Analysts **earn 15–25% more** on average than uncertified peers, especially in Europe, the US, and India.  
+✅ **It opens doors** – Companies often list PL-300 as a preferred or required qualification for data analyst roles.
+
+> 🎯 *Whether you're job hunting or growing in your current role, this certification gives you a competitive edge.*
+
 
 <br>
 
@@ -59,7 +74,7 @@ Microsoft breaks it into 4 areas:
 
 Questions are multiple-choice, scenario-based, and interactive (drag & drop, choose visual type, etc.).
 
----
+<br>
 
 ## 📚 Free study resources
 
@@ -70,7 +85,7 @@ Questions are multiple-choice, scenario-based, and interactive (drag & drop, cho
 | Sample practice tests (free/paid)| [MeasureUp](https://www.measureup.com/) or [Whizlabs](https://www.whizlabs.com/) |
 | YouTube walkthroughs             | Search “PL-300 prep” on YouTube for real-time demos |
 
----
+<br>
 
 ## 🪜 What happens after you pass?
 
@@ -79,7 +94,7 @@ Questions are multiple-choice, scenario-based, and interactive (drag & drop, cho
 ✅ Many companies (especially in Europe, US, India) list PL-300 as a preferred skill  
 ✅ It can help you move into roles like **BI Analyst**, **Data Analyst**, or **Reporting Lead**
 
----
+<br>
 
 ## 🎯 Final thoughts
 
