@@ -38,7 +38,7 @@ By the end of this week, you will be able to:
 
 <br>
 
-## 📈 Difficulty Snapshot – Week 3
+## 📈 Difficulty snapshot – Week 3
 
 | 🧠 Topic Area                      | ⚙️ Difficulty | 💬 What to Expect                                                       |
 |----------------------------------|---------------|-------------------------------------------------------------------------|
@@ -46,9 +46,10 @@ By the end of this week, you will be able to:
 | ⚙️ Formatting & accessibility     | 🟡 Medium      | Requires attention to detail and user experience                       |
 | 🧠 Interactivity & navigation     | 🟡 Medium      | Involves logical flow and multiple components like slicers/bookmarks   |
 | 📁 Dashboards & publishing        | 🟡 Medium      | Easy to create, but best practices matter for usability                |
-| 🧪 Performance tuning with DAX    | 🔴 Hard        | Includes variables, context, and analyzer tools                        |
+| 🧪 Performance tuning with DAX    | 🔴 Hard        | Includes variables, context, and analyzer tools — key for PL-300 prep  |
 
-> 💡 **Tip:** Start with storytelling, not just charting. Ask: *What does my audience need to know?*
+> 💡 **Tip:** Start with storytelling, not just charting. Ask: *What does my audience need to know — and why does it matter?*
+
 
 <br>
 
