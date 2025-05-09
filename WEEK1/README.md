@@ -15,6 +15,7 @@ We will explore how Power BI connects to different data sources, how storage mod
 | 3   | **Transforming Data with Power Query** | Learn how to clean, reshape, pivot, and fix data issues               |
 | 4   | **Combining and Joining Tables**    | Master merging, appending, and understanding joins                    |
 
+
 <br>
 
 ## 🎯 Learning Objectives
@@ -28,15 +29,19 @@ By the end of this week, you will be able to:
 
 ---
 
-## 🧠 Difficulty Matrix – Week 1
+## 📈 Difficulty Snapshot – Week 1
 
-| Topic Area                      | Difficulty | Notes                                                                 |
-|--------------------------------|------------|-----------------------------------------------------------------------|
-| Connecting to data sources     | 🟢 Easy     | Beginner-friendly with visual tools and drag-and-drop options         |
-| Choosing storage modes         | 🟡 Medium   | Conceptual understanding required; affects performance and refresh    |
-| Power Query basics             | 🟢 Easy     | Interface is intuitive, similar to Excel                              |
-| Pivot/Unpivot columns          | 🟡 Medium   | Requires a bit of experimentation to fully grasp                      |
-| Combining data (append/merge)  | 🟡 Medium   | Joins require logic, especially when choosing join keys               |
+Here’s what to expect as you dive into the world of Power BI this week. Some things will feel smooth and visual (yay, drag-and-drop!), while others may need a bit of practice and logical thinking.
+
+| 🧠 Topic Area                  | ⚙️ Difficulty | 💬 What to Expect                                                  |
+|------------------------------|----------------|---------------------------------------------------------------------|
+| 🔌 Connecting to data sources | 🟢 Easy         | Visual tools make it simple — no code needed                        |
+| 📦 Choosing storage modes     | 🟡 Medium       | Requires a bit of theory (Import vs. DirectQuery vs. Dual)         |
+| 🧼 Power Query basics         | 🟢 Easy         | Feels like Excel with a modern twist                               |
+| 🔄 Pivot/Unpivot columns      | 🟡 Medium       | A bit abstract at first — play around to understand it              |
+| 🔗 Combining data (merge/append) | 🟡 Medium     | Joins need logic — focus on matching keys and understanding joins   |
+
+> 💡 **Tip:** Struggle means you're learning. If something feels hard at first, you're in exactly the right place.
 
 <br>
 
