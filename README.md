@@ -14,9 +14,9 @@ By the end of this journey, you'll be equipped to build **real-world reports**, 
 
 <br>
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/424fe6bd-a6d8-4d34-81d1-215f369ffea5" />
-
-<br>
+<p align="center">
+  <img width="700" alt="image" src="https://github.com/user-attachments/assets/424fe6bd-a6d8-4d34-81d1-215f369ffea5" />
+</p>
 
 
 <br>
