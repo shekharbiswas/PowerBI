@@ -8,7 +8,7 @@ You’ll learn what dashboards are, how they differ from reports, and how to bui
 
 <br>
 
-## 📅 Today's time commitment
+## 📅 Time commitment
 
 | Activity type         | Estimated time |
 |------------------------|----------------|
@@ -16,8 +16,8 @@ You’ll learn what dashboards are, how they differ from reports, and how to bui
 | 📖 Read content         | ~30 minutes     |
 | 🛠️ Practice activities  | ~40 minutes     |
 | 🧠 Self-review & quiz   | ~15 minutes     |
-| ✍️ Wrap-up              | ~10 minutes     |
-| **Total**              | **~2 hours**    |
+| ✍️ Wrap-up              | ~40 minutes     |
+| **Total**              | **~2.5 hours**    |
 
 <br>
 
