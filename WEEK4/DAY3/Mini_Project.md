@@ -162,6 +162,8 @@ On a single Power BI report page, include:
 - Screenshots of final dashboard  
 - Written analysis report (5 - 8  slides in Google Slide - use Canva too)
 
+🕔 **Submission Deadline**: Friday evening by midnight.
+
 <br>
 
 ## 🏁 What You’ll Practice
