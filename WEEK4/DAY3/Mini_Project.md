@@ -103,7 +103,7 @@ By the end of this project, you will be able to:
 - Create relationship: Sales[InvoiceDate] → Date[Date]
 - Mark as official Date Table: Modeling → Mark as Date Table
 
-###🔹 3. Create Key Measures (1 hour)
+### 🔹 3. Create Key Measures (1 hour)
 
 ```DAX
 Total Sales = SUM('Sales'[TotalPrice])
