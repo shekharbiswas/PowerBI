@@ -2,7 +2,23 @@
 
 ## 📝 Project Title: "Sales Trends and Customer Insights for an Online Retailer"
 
----
+Imagine you've just joined a fast-growing e-commerce company.  
+Your manager wants a dashboard that shows how the business is doing — and you're in charge of building it. 💼📊
+
+This project simulates exactly that. You'll clean messy real-world data, spot trends, and build visuals that answer important questions like:
+
+- What are our best-selling products?  
+- Which customers spend the most?  
+- Are sales increasing month by month?  
+- Which countries bring the most revenue?
+
+You’ll learn how to turn raw data into business insights that your team can actually use.  
+By the end, you'll have a one-page executive dashboard that looks professional and tells a clear story.  
+This is your first step toward thinking (and working) like a real Power BI analyst.
+
+
+<br>
+
 
 ## 🎯 Project Goal
 
