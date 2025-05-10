@@ -31,7 +31,7 @@ Build a dynamic Power BI dashboard for a fictional online retail company to anal
 
 ## 🧰 Dataset
 
-We’ll use a **real-world dataset** from the UCI Machine Learning Repository:
+We’ll use a UK based online retail store data from the UCI Machine Learning [Repository](https://archive.ics.uci.edu/dataset/352/online+retail):
 
 📦 **Online Retail Dataset (Excel)**  
 🔗 [Download here](https://archive.ics.uci.edu/ml/machine-learning-databases/00352/Online%20Retail.xlsx)
