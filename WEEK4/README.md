@@ -3,9 +3,13 @@
 Welcome to **Week 4** — your final week in the Power BI learning journey with **Dataskools**.  
 This week, you’ll learn how to go beyond visuals and start **analyzing data patterns**.
 
-You will build forecasts, and using **AI-powered visuals** in Power BI.
+You will build forecasts and use **AI-powered visuals** in Power BI.
 
-You’ll also complete a final capstone-style project and reflect on how far you've come.
+You’ll also complete a **capstone-style final project** using real business data from an **online retail company**, where you'll clean, model, and visualize key insights — just like a real BI analyst. 🎓
+
+Finally, you’ll take time to reflect on your growth, revisit your goals, and get ready to continue your journey beyond Dataskools.
+
+
 
 <br><br>
 
@@ -41,6 +45,8 @@ By the end of this week, you will be able to:
 
 ## 📈 Difficulty snapshot – Week 4
 
+## 📈 Difficulty Snapshot – This Project
+
 | 🧠 Topic Area                  | ⚙️ Difficulty | 💬 What to Expect                                                               |
 |-------------------------------|---------------|----------------------------------------------------------------------------------|
 | 📊 Clustering & binning        | 🟡 Medium      | Involves grouping and segmenting data for visual pattern recognition             |
@@ -49,6 +55,8 @@ By the end of this week, you will be able to:
 | 📋 Executive summary report    | 🟢 Easy        | Focused on layout, storytelling, and clear communication                         |
 | 🧠 Reflection & career planning| 🟢 Easy        | Personal and professional review of your learning journey                        |
 | 🧪 PL-300 prep & integration   | 🟡 Medium      | Combines skills from all modules for real-world and certification readiness      |
+| 🧩 Online Retail Final Project | 🟡 Medium      | Integrates cleaning, modeling, DAX, and storytelling — just like real BI work    |
+
 
 > 💡 **Tip:** This week is about insight, not just charts. It’s also about **proving your skills** and preparing to go from learner to certified Power BI analyst.
 
