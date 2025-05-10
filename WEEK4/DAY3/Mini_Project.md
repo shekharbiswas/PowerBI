@@ -160,7 +160,7 @@ On a single Power BI report page, include:
 
 - `.pbix` Power BI file  
 - Screenshots of final dashboard  
-- Written reflection (3–5 bullet points)
+- Written analysis report (5 - 8  slides in Google Slide - use Canva too)
 
 <br>
 
