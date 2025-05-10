@@ -5,7 +5,7 @@ This week, you’ll learn how to go beyond visuals and start **analyzing data pa
 
 You will build forecasts and use **AI-powered visuals** in Power BI.
 
-You’ll also complete a **capstone-style final project** using real business data from an **online retail company**, where you'll clean, model, and visualize key insights — just like a real BI analyst. 🎓
+You’ll also complete a **Mini Project** using real business data from an **online retail company**, where you'll clean, model, and visualize key insights — just like a real BI analyst. 🎓
 
 Finally, you’ll take time to reflect on your growth, revisit your goals, and get ready to continue your journey beyond Dataskools.
 
