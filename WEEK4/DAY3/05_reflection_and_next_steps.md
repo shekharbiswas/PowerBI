@@ -1,4 +1,4 @@
-# 🎓 Final reflection, feedback & your Power BI journey (Days 3–4)
+# 🎓 Final reflection, feedback
 
 You made it! 🎉  
 Welcome to the final wrap-up of your Power BI course. This session gives you time to **review your final project**, **complete your quiz**, and reflect on everything you’ve learned across the past four weeks.
