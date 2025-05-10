@@ -89,7 +89,7 @@ By the end of this project, you will be able to:
 - Create a new column in Power Query:  
   `TotalPrice = Quantity * UnitPrice`
 
----
+<br>
 
 ### 🔹 2. Create Relationships and Date Table (0.5 hours)
 
@@ -97,7 +97,7 @@ By the end of this project, you will be able to:
   Use DAX formula:  
   ```DAX
   Date = CALENDAR(MIN('Sales'[InvoiceDate]), MAX('Sales'[InvoiceDate]))
- ```
+  ```
 
 - Add columns: Year, Month, Month Name (you can use FORMAT or YEAR(), MONTH() functions)
 - Create relationship: Sales[InvoiceDate] → Date[Date]
@@ -105,7 +105,7 @@ By the end of this project, you will be able to:
 
 ###🔹 3. Create Key Measures (1 hour)
 
-```
+```DAX
 Total Sales = SUM('Sales'[TotalPrice])
 Order Count = DISTINCTCOUNT('Sales'[InvoiceNo])
 Avg Order Value = [Total Sales] / [Order Count]
@@ -113,11 +113,12 @@ Avg Order Value = [Total Sales] / [Order Count]
 
 Optional
 
-```
+```DAX
 Top Country Sales = 
       CALCULATE([Total Sales], FILTER(ALL('Sales'), 'Sales'[Country] = "United Kingdom"))
 ```
 
+<br>
 
 ### 🔹 4. Build Visuals (2 hrs)
 
