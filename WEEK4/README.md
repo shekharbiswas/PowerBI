@@ -1,4 +1,4 @@
-# 📊 Overview: Analysis, AI visuals & final project
+# 📊 Overview: Analysis, AI visuals & Mini project
 
 Welcome to **Week 4** — your final week in the Power BI learning journey with **Dataskools**.  
 This week, you’ll learn how to go beyond visuals and start **analyzing data patterns**.
