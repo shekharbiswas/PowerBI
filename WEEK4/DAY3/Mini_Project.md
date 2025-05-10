@@ -1,6 +1,4 @@
-# 📊 Power BI Project: Sales Insights Dashboard (Beginner – 6 hours)
-
-## 📝 Project Title: "Sales Trends and Customer Insights for an Online Retailer"
+# 📊 Power BI Project: Sales  Trends and Customer Insights
 
 Imagine you've just joined a fast-growing e-commerce company.  
 Your manager wants a dashboard that shows how the business is doing — and you're in charge of building it. 💼📊
