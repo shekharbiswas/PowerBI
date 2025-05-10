@@ -65,7 +65,7 @@ By the end of this project, you will be able to:
 
 | Step | Task | Tools | Time |
 |------|------|-------|------|
-| 1 | 🧼 Data Cleaning & Prep | Power Query | 1.5 hrs |
+| 1 | 🧼 Data Cleaning & Prep | Power Query | 2 hrs |
 | 2 | 🧠 Data Modeling | Relationships, Date Table | 1 hrs |
 | 3 | 📊 Measure Creation (DAX) | Revenue, AOV, Orders | 1 hr |
 | 4 | 📈 Visualization | Charts, Filters, KPIs | 2 hrs |
