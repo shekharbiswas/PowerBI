@@ -27,7 +27,7 @@ Build a dynamic Power BI dashboard for a fictional online retail company to anal
 - Regional performance  
 - Key metrics like revenue, order count, and average order value
 
----
+<br>
 
 ## 🧰 Dataset
 
@@ -46,7 +46,7 @@ Columns include:
 - `CustomerID`  
 - `Country`
 
----
+<br>
 
 ## 🧩 Learning Objectives
 
