@@ -152,6 +152,7 @@ And when you're ready, you can confidently go for the **PL-300 certification** �
 - ✅ Perform advanced analytics with confidence  
 - ✅ Complete and present a final Power BI report  
 - ✅ Be ready to start preparing for the PL-300 exam  
+- ✅ Thursday Mini Project
 
 </details>
 
