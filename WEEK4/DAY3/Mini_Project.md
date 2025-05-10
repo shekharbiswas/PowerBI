@@ -61,18 +61,20 @@ By the end of this project, you will be able to:
 
 ---
 
-## ⏳ Time Breakdown (6 Hours)
+## ⏳ Time Breakdown (8 Hours)
 
 | Step | Task | Tools | Time |
 |------|------|-------|------|
 | 1 | 🧼 Data Cleaning & Prep | Power Query | 1.5 hrs |
-| 2 | 🧠 Data Modeling | Relationships, Date Table | 0.5 hrs |
+| 2 | 🧠 Data Modeling | Relationships, Date Table | 1 hrs |
 | 3 | 📊 Measure Creation (DAX) | Revenue, AOV, Orders | 1 hr |
 | 4 | 📈 Visualization | Charts, Filters, KPIs | 2 hrs |
-| 5 | 🎤 Polishing + Story | Titles, tooltips, layout | 0.5 hr |
-| 6 | 🌍 Export & Reflection | Save, publish, present insights | 0.5 hr |
+| 5 | 🎤 Polishing + Story | Titles, tooltips, layout | 1 hr |
+| 6 | 🌍 Export & Reflection | Save, publish, present insights | 1 hr |
 
----
+> Please plan more hours as this is just an estimation
+
+<br>
 
 ## 🔧 Step-by-Step Instructions
 
