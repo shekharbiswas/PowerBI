@@ -1,4 +1,4 @@
-# 🛠️ Day 3 Task Sheet — Power Query & Data Cleaning
+# 🛠️ Power Query & Data Cleaning
 ### Dataskools | Power BI Programme
 **Estimated Time: 6 Hours** | Data Source: Capital Bikeshare
 
