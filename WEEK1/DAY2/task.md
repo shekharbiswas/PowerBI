@@ -9,7 +9,7 @@
 | Block | Activity | Time |
 |---|---|---|
 | Block 1 | Coursera Videos + Readings | 30 mins |
-| Block 2 | Connector Mapping Exercise | 30 mins |
+| Block 2 | Two Source Connector Task | 30 mins |
 | Block 3 | Trigger Scenario Task + Reflection | 30 mins |
 
 ---
@@ -30,55 +30,87 @@ Complete the following in **Module 1** on Coursera before moving to the tasks:
 
 ---
 
-## 🚲 Block 2 — Connector Mapping Exercise (30 Minutes)
+## 🚲 Block 2 — Two Source Connector Task (30 Minutes)
 
 ### Context
-Capital Bikeshare data is currently published as static monthly CSV files. But imagine you are the data analyst for a modern bike sharing company that uses cloud tools across every department. Your job is to map where the data lives and how Power BI could connect to it.
+Capital Bikeshare gives us exactly two types of data. Nothing invented, nothing simulated — just what the system actually publishes. Understanding these two sources and how differently they behave is the entire point of this block.
 
 ---
 
-### Step 1 — Read The Business Scenario (5 mins)
+### Your Two Real Data Sources
 
-Your company runs a bike sharing service across three cities. The following systems are used daily across the business:
+**Source 1 — Historical Trip CSV**
+Monthly trip records published on the Capital Bikeshare website. Each file covers one calendar month and is uploaded manually after the month ends. You downloaded these files on Day 1.
 
-| Department | Tool Used | Data Generated |
+- Format: CSV flat file
+- Updated: Once per month, manually
+- What it contains: Every completed trip — start time, end time, station, bike type, member or casual rider
+
+**Source 2 — GBFS Live JSON Feeds**
+Capital Bikeshare publishes real-time system data as JSON feeds following the GBFS open standard used by bike sharing systems worldwide. These feeds refresh automatically every 60 seconds.
+
+| Feed | What It Contains | URL |
 |---|---|---|
-| Operations | Google Sheets | Daily bike availability by station |
-| Finance | Excel (SharePoint) | Weekly revenue and refund records |
-| Marketing | Salesforce | Customer acquisition campaigns |
-| Engineering | SQL Server | Live trip and sensor data |
-| Customer Support | Zendesk | Support tickets and complaint logs |
-| HR | SharePoint Lists | Staff rosters and shift schedules |
+| station_information.json | Static station names, IDs, coordinates, capacity | `https://gbfs.lyft.com/gbfs/2.2/dca-cabi/en/station_information.json` |
+| station_status.json | Live bikes available, docks available per station | `https://gbfs.lyft.com/gbfs/2.2/dca-cabi/en/station_status.json` |
+| vehicle_status.json | Live individual bike locations and status | `https://gbfs.lyft.com/gbfs/2.2/dca-cabi/en/vehicle_status.json` |
+| system_alerts.json | Current service alerts and disruptions | `https://gbfs.lyft.com/gbfs/2.2/dca-cabi/en/system_alerts.json` |
 
 ---
 
-### Step 2 — Connector Classification Task (15 mins)
+### Step 1 — Explore The Live JSON Feeds (10 mins)
 
-For each department above, complete the following table in your notes:
+Open your browser and paste each URL above directly into the address bar. You will see raw JSON data returned live from Capital Bikeshare's system.
 
-| Department | Power BI Connector To Use | Data Refresh Frequency Needed | Import or DirectQuery? | Reason For Your Choice |
-|---|---|---|---|---|
-| Operations | | | | |
-| Finance | | | | |
-| Marketing | | | | |
-| Engineering | | | | |
-| Customer Support | | | | |
-| HR | | | | |
+For each feed answer the following in your notes:
 
-> **Tip:** Think about how often the data changes and how critical it is that the report shows current data. That determines your connector and storage mode choice together.
+| Feed | What did you see? | How many records approximately? | Any fields you recognise from the CSV? |
+|---|---|---|---|
+| station_information.json | | | |
+| station_status.json | | | |
+| vehicle_status.json | | | |
+| system_alerts.json | | | |
+
+> **Tip:** If the raw JSON is hard to read, paste it into **https://jsonformatter.org** to view it in a structured tree format.
 
 ---
 
-### Step 3 — Connector Research Task (10 mins)
+### Step 2 — Source Comparison Task (10 mins)
 
-Go to **https://learn.microsoft.com/en-us/power-bi/connect-data/power-bi-data-sources** and find the official list of Power BI data connectors.
+Using what you now know about both sources complete this comparison table in your notes:
 
-Answer the following in your notes:
+| Question | CSV Trip Data | GBFS JSON Feeds |
+|---|---|---|
+| What Power BI connector would you use? | | |
+| How often does the data change? | | |
+| Which storage mode is most appropriate? | | |
+| What happens if you use the wrong storage mode? | | |
+| Can you join these two sources together? On which column? | | |
+| What business questions can only this source answer? | | |
 
-- How many connector categories does Microsoft list?
-- Name two connectors you had never heard of before today
-- Which connector category would Capital Bikeshare's CSV files fall under?
-- If Capital Bikeshare published their data via a live API instead of CSV — which connector category would you use?
+---
+
+### Step 3 — Connect A Live JSON Feed In Power BI (10 mins)
+
+Let us connect one live GBFS feed directly into Power BI:
+
+1. Open Power BI Desktop
+2. Click **Home → Get Data → Web**
+3. Paste this URL: `https://gbfs.lyft.com/gbfs/2.2/dca-cabi/en/station_status.json`
+4. Click **OK** — Power BI will fetch the live feed
+5. In the Navigator window expand the **data** record to see individual station records
+6. Click **Transform Data** to open in Power Query
+
+**Once inside Power Query — record the following:**
+
+| Observation | What You See |
+|---|---|
+| How is the JSON structured compared to the CSV? | |
+| What column shows bikes available at each station? | |
+| What column could you use to join this to the CSV data? | |
+| Does Power BI assign correct data types automatically? | |
+
+> **Notice:** Every time you click Refresh on this query Power BI fetches a completely fresh snapshot of live station status. This is fundamentally different from the static CSV — the data underneath is always moving.
 
 ---
 
@@ -86,41 +118,34 @@ Answer the following in your notes:
 
 ### Step 1 — Trigger Design Exercise (15 mins)
 
-A trigger is an event that automatically starts an action. Read each situation below and design a simple trigger and action pair for each one. Write your answers in your notes.
+Using only the two real Capital Bikeshare data sources design a trigger and action pair for each situation below. Write your answers in your notes.
 
-**Situation 1:**
-The Capital Bikeshare operations team updates a Google Sheet every morning at 7am with the previous day's station availability data. The Head of Operations wants the Power BI dashboard to always show yesterday's data without anyone manually refreshing it.
+---
+
+**Situation 1 — Monthly Data Arrival**
+Capital Bikeshare publishes a new monthly CSV file on their website at the start of each month. An operations analyst wants the historical trip report in Power BI to update automatically when the new file becomes available rather than downloading and reconnecting manually each time.
 
 > **Your trigger:** *(what event starts the automation?)*
 > **Your action:** *(what does Power BI do when the trigger fires?)*
-> **Who benefits and how?**
+> **What would need to change in how the CSV is stored for this automation to work?**
 
 ---
 
-**Situation 2:**
-The finance team uploads a new monthly revenue Excel file to SharePoint on the first working day of every month. The CFO wants an email notification sent automatically when the Power BI report has been updated with the new data.
+**Situation 2 — Live Station Alert**
+The `station_status.json` feed refreshes every 60 seconds. The operations manager wants to be notified automatically whenever any station in the network shows zero bikes available and zero docks available simultaneously — which indicates a potential data error or a station outage.
 
 > **Your trigger:**
 > **Your action:**
-> **Who benefits and how?**
+> **Why is the 60 second refresh important for this use case specifically?**
 
 ---
 
-**Situation 3:**
-The engineering team's SQL Server records a new entry every time a bike trip is completed. Leadership wants a live operations dashboard that always shows trips completed in the last 60 minutes.
+**Situation 3 — Combining Both Sources**
+An analyst wants a single Power BI dashboard that shows both historical trip volume by station from the CSV and current live availability from station_status.json side by side. The historical data only needs to refresh monthly but the live data must always be current.
 
-> **Your trigger:**
+> **Your trigger:** *(there may be two separate triggers here)*
 > **Your action:**
-> **Who benefits and how?**
-
----
-
-**Situation 4:**
-A data quality rule states that if any station in the Google Sheet shows zero bikes available for more than two consecutive hours, the operations manager should be alerted immediately.
-
-> **Your trigger:**
-> **Your action:**
-> **Who benefits and how?**
+> **Which storage mode would each source use and why?**
 
 ---
 
@@ -128,14 +153,14 @@ A data quality rule states that if any station in the Google Sheet shows zero bi
 
 Write minimum 2–3 sentences per answer in your learning journal.
 
-**Q1 — Real World Connection:**
-Think about the Capital Bikeshare CSV files you downloaded on Day 1. These are published monthly by a human manually. Design a simple automated workflow that would replace this manual process using connectors and triggers. What would need to change on Capital Bikeshare's side for this to be possible?
+**Q1 — Two Sources One Model:**
+You now have a static CSV and a live JSON feed both connected to Power BI. What is the key challenge of combining these two sources into a single report? What column would you use to join them and what data quality checks would you run before trusting the join?
 
-**Q2 — Automation vs Control:**
-Some analysts worry that automating data refreshes means errors get pushed into reports without anyone noticing. Do you agree with this concern? What safeguards would you build into an automated Power BI workflow to catch bad data before it reaches a dashboard?
+**Q2 — Storage Mode Decision:**
+Explain in plain language to a non-technical colleague why the CSV trip data and the GBFS station status feed need different storage modes. Use a real example from what you saw in the data today to make your explanation concrete.
 
-**Q3 — Stakeholder Impact:**
-The Coursera discussion asked how stakeholders benefit from triggers and actions. Write your own answer here before or after posting in Coursera. Name a specific stakeholder role (CFO, Operations Manager, Marketing Lead) and explain concretely how one automation saves them time or improves their decisions.
+**Q3 — Automation Value:**
+Capital Bikeshare currently publishes CSV files manually each month. If they moved to publishing via a live API instead — how would this change the connector, storage mode, and trigger setup for an analyst building a Power BI report on their data?
 
 ---
 
@@ -145,9 +170,11 @@ Before marking this session complete confirm you have:
 
 - [ ] Completed all six Coursera items listed in Block 1
 - [ ] Written your one sentence summary of connectors vs triggers
-- [ ] Completed the Connector Classification table for all six departments
-- [ ] Answered the four connector research questions from the Microsoft docs page
-- [ ] Designed trigger and action pairs for all four situations
+- [ ] Opened all four GBFS JSON feeds in your browser
+- [ ] Completed the source comparison table for both data sources
+- [ ] Connected station_status.json to Power BI via the Web connector
+- [ ] Recorded your Power Query observations for the live JSON feed
+- [ ] Designed trigger and action pairs for all three situations
 - [ ] Written full answers to all three reflection questions
 
 ---
@@ -158,4 +185,5 @@ Add the following to your `/Documents/Dataskools/Day1/` folder:
 
 | File | What To Add |
 |---|---|
-| `Day1_Notes.docx` | Connector classification table, trigger designs, reflection answers |
+| `Day1_PowerBI.pbix` | station_status.json Web connector query added |
+| `Day1_Notes.docx` | JSON feed observations, comparison table, trigger designs, reflection answers |
