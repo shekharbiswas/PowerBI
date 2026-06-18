@@ -284,6 +284,5 @@ Save the following to `/Documents/Dataskools/Day1/`:
 
 > You will use these files again on Day 2 and Day 3. Keep them organised.
 
----
 
-*Dataskools — Power BI Programme | Day 1 of 5*
+
