@@ -49,8 +49,8 @@ Capital Bikeshare is Washington D.C.'s public bike sharing system. Every single 
 Go to: **https://capitalbikeshare.com/system-data**
 
 Download the following files:
-- Any **one monthly trip data CSV** from 2023 (e.g. 202309-capitalbikeshare-tripdata.csv)
-- Any **one monthly trip data CSV** from a different month in 2023
+- Any **one monthly trip data CSV** from 2026 (e.g. 202609-capitalbikeshare-tripdata.csv)
+- Any **one monthly trip data CSV** from a different month in 2026
 
 Save both files to a dedicated folder on your computer called:
 ```
@@ -277,8 +277,8 @@ Save the following to `/Documents/Dataskools/Day1/`:
 
 | File | Description |
 |---|---|
-| `202309-capitalbikeshare-tripdata.csv` | First monthly source file |
-| `202310-capitalbikeshare-tripdata.csv` | Second monthly source file |
+| `09-capitalbikeshare-tripdata.csv` | First monthly source file |
+| `10-capitalbikeshare-tripdata.csv` | Second monthly source file |
 | `Day1_PowerBI.pbix` | Your Power BI Desktop file |
 | `Day1_Notes.docx` | All inspection tables and reflection answers |
 
