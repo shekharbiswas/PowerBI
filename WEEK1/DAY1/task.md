@@ -33,6 +33,8 @@ Complete the following in **Module 1** on Coursera before touching Power BI:
 - ✅ Storage modes in Power BI (video)
 - ✅ Configuring storage modes (video)
 - ✅ Walkthrough: Setting up your storage mode (reading)
+- ✅ Structured vs. unstructured data
+
 
 **After completing Block 1 — write one sentence answering this before moving on:**
 > *"In my own words, the difference between Import and DirectQuery is..."*
