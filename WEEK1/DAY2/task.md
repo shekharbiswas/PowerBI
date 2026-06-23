@@ -49,6 +49,8 @@ Monthly trip records published on the Capital Bikeshare website. Each file cover
 **Source 2 — GBFS Live JSON Feeds**
 Capital Bikeshare publishes real-time system data as JSON feeds following the GBFS open standard used by bike sharing systems worldwide. These feeds refresh automatically every 60 seconds.
 
+[Source of data](https://github.com/MobilityData/gbfs/blob/master/gbfs.md)
+
 | Feed | What It Contains | URL |
 |---|---|---|
 | station_information.json | Static station names, IDs, coordinates, capacity | `https://gbfs.lyft.com/gbfs/2.2/dca-cabi/en/station_information.json` |
