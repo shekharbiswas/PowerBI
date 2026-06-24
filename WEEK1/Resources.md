@@ -5,3 +5,4 @@
 
 ## Videos
 1. [link](https://us06web.zoom.us/rec/share/YNedwd1KtP4mbOI6srhgre--oE_7PH-nj_k_U9KLxNz1d3sfg8QZiVcnveKyDdS6.imlyTA6pvBhvalGL), Passcode: *esE3fVM
+2. [link](https://us06web.zoom.us/rec/share/NErD_bn2WQA8fjAXsUyXo_bI0fhAZfTp9d_dOk13rw24oInph66DRYtpd1AfnQ-5.vML5NDTXtkzrBw2B), Passcode: P9adp+^v
