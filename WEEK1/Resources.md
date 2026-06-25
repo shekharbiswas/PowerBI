@@ -2,6 +2,7 @@
 2. [Storage Modes](https://docs.google.com/presentation/d/e/2PACX-1vTCT6aru9Q4p521n87N7yIglBKmZgOv90A3L_rJeYKibLrQ5YVs9PImanNjHL7DgEe3v8HKk45DxpWA/pub?start=false&loop=false&delayms=3000)
 3. [Power Query
 ](https://docs.google.com/presentation/d/e/2PACX-1vQRTpBAoQxTICy7U8a-BwILUPKfZQTrPQ-wSXzUqqv0aU3YbkUaWygT4uxzkf-kEzzwuGmo3hfwBwcx/pub?start=false&loop=false&delayms=3000)
+4. [Combine Data Sources](https://docs.google.com/presentation/d/e/2PACX-1vSFHgh07WTpb3_HvpA-inL9Fu1gsSwUSjk2HcQBu0rkSrvEElE2rS6ce3ucjEhEsTnuUjOl8frD8NST/pub?start=false&loop=false&delayms=3000)
 
 
 ## Videos
