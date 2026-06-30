@@ -25,9 +25,6 @@ Complete the following in **Module 3** on Coursera before touching Power BI:
 - ✅ Best practices when working with Power Query (video)
 - ✅ Activity: Import a dataset with best practices (reading)
 - ✅ Introduction to dataflows (video)
-- ✅ Introduction to reference queries (video)
-- ✅ Reference queries and dataflows (video)
-- ✅ Activity: Using reference queries (reading)
 
 **Session 2 — Reference Queries & Dataflows:**
 - ✅ Introduction to reference queries (video)
