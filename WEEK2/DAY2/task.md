@@ -184,8 +184,8 @@ Example structure to document:
 CSV File 1 → Trips_Month1 (staging) ↘
                                       → Trips_Combined → Trips_With_Station
 CSV File 2 → Trips_Month2 (staging) ↗
-                                      ↑
-                         Station_Info ┘
+                                                             ↑
+                                                Station_Info ┘
 ```
 
 Does your actual structure match this? If not — draw what it actually is.
