@@ -53,7 +53,7 @@ These will come up again in Block 4.
 
 ### Context
 
-Open `W2D1_PowerBI.pbix` from `/Documents/Dataskools/Week2_Day1/`
+Open `W2D5_PowerBI.pbix` from `/Documents/Dataskools/Week2_Day5/`
 
 Save immediately as `W3D1_PowerBI.pbix` in `/Documents/Dataskools/Week3_Day1/`
 
