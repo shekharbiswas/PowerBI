@@ -25,9 +25,6 @@ Complete the following in **Module 3** on Coursera before touching Power BI:
 - ✅ Best practices when working with Power Query (video)
 - ✅ Activity: Import a dataset with best practices (reading)
 - ✅ Introduction to dataflows (video)
-- ✅ Introduction to reference queries (video)
-- ✅ Reference queries and dataflows (video)
-- ✅ Activity: Using reference queries (reading)
 
 **Session 2 — Reference Queries & Dataflows:**
 - ✅ Introduction to reference queries (video)
@@ -187,8 +184,8 @@ Example structure to document:
 CSV File 1 → Trips_Month1 (staging) ↘
                                       → Trips_Combined → Trips_With_Station
 CSV File 2 → Trips_Month2 (staging) ↗
-                                      ↑
-                         Station_Info ┘
+                                                             ↑
+                                                Station_Info ┘
 ```
 
 Does your actual structure match this? If not — draw what it actually is.
