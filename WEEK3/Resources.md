@@ -1,5 +1,5 @@
 ## Slides
-
+1. [Building reports efficiently](https://docs.google.com/presentation/d/e/2PACX-1vQVv6oTHzkLXESwBUPdDn_aBK-BBcmSwQt8lzRE62HSJOSZ-pwmgAPuOg8Wx_7jvEtecxbIPn2Do2P8/pub?start=false&loop=false&delayms=3000)
 
 ## Videos
 1. [link](https://us06web.zoom.us/rec/share/7RC5GIoXyXfHGtl7lNbWaYI1C6lFUR1DvhucbDWCogRRh8AsSYRyvlorTVU8m8h8.aiwbzKvxYz3oypL4), Passcode: 9g3dgQ.9
