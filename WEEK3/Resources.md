@@ -15,3 +15,4 @@
 ## Links
 
 1. [effective dashboard design](https://www.geckoboard.com/resources/dashboard-design/)
+2. [dax kpi fundamentals](https://docs.google.com/presentation/d/e/2PACX-1vSoJowGK7evPPxhlZm_vOXjWZGtgVIlp8YPgX5jRYeSG6f7BynhtJZBkQ9iv2n_OR0WQo_Z1Pz_yH1Y/pub?start=false&loop=false&delayms=3000)
