@@ -1,7 +1,7 @@
 # Task Sheet — Bridge Day: Capital Bikeshare Presentation and Week 4 Preview
 
 **Dataskools | Power BI Programme**
-Estimated Time: 6 Hours | Tools: Power BI + Canva | Data: Capital Bikeshare Visual Report (W3D4) and Online Retail Preview Data
+Estimated Time: 6 Hours | Tools: Power BI + Canva | Data: Capital Bikeshare Visual Report (W3D4)
 
 ---
 
@@ -13,9 +13,9 @@ Estimated Time: 6 Hours | Tools: Power BI + Canva | Data: Capital Bikeshare Visu
 | Block 2 | Power BI Final Pass and Canva Deck Build | 1 Hour 45 Minutes |
 | Block 3 | Present and Reflect | 30 Minutes |
 | Block 4 | Forecasting and AI Visuals Primer | 1.5 Hours |
-| Block 5 | First Look at the Retail Dataset | 1.5 Hours |
+| Block 5 | Extending the Capital Bikeshare Dashboard | 1.5 Hours |
 
-> **Note on today:** This is the last day of the Capital Bikeshare project and the first day of looking ahead. The presentation today is shorter than a full presentation day on purpose — the goal is to close this project cleanly, not to spend the whole day polishing it further. The second half of today exists so that Monday does not start cold. You will leave today having closed one dataset and opened another.
+> **Note on today:** This is the last day of the core Capital Bikeshare build and the first day of going deeper on the same dataset. The presentation today is shorter than a full presentation day on purpose — the goal is to close this phase cleanly, not to spend the whole day polishing it further. The second half of today exists so that Week 4 does not start cold. Week 4 stays on Capital Bikeshare — we are not switching datasets. Instead, we use forecasting and AI-powered visuals to ask new questions of data we already know well. You will leave today having closed one phase of this project and opened the next.
 
 ---
 
@@ -23,7 +23,7 @@ Estimated Time: 6 Hours | Tools: Power BI + Canva | Data: Capital Bikeshare Visu
 
 ### Context
 
-You already have a finished, presentation-ready file from Day 4. This block is about deciding what to say, not building anything new.
+We already have a finished, presentation-ready file from Day 4. This block is about deciding what to say, not building anything new.
 
 ---
 
@@ -112,11 +112,11 @@ Present the short deck plus the brief live demo, either to yourself, a peer, or 
 
 Write a minimum of two to three sentences per answer.
 
-**Q1 — Closing the Project:**
-Now that the Capital Bikeshare project is finished, what is the one thing you are most confident you could do again on a new dataset without guidance, and what is the one thing you would still want to look up or double-check?
+**Q1 — Closing This Phase:**
+Now that the core Capital Bikeshare build is finished, what is the one thing you are most confident you could do again on a new dataset without guidance, and what is the one thing you would still want to look up or double-check?
 
 **Q2 — What Carries Forward:**
-Of everything built across the four weeks of this project — ETL, staging, profiling, visuals, accessibility, interactivity, dashboards, performance tuning — name the single skill you expect to use the most in the retail mini project ahead, and why.
+Of everything built across the four weeks of this project — ETL, staging, profiling, visuals, accessibility, interactivity, dashboards, performance tuning — name the single skill you expect to lean on the most as we extend the dashboard with forecasting and AI visuals, and why.
 
 ---
 
@@ -124,7 +124,7 @@ Of everything built across the four weeks of this project — ETL, staging, prof
 
 ### Context
 
-Week 4 introduces forecasting and AI-powered visuals. This block is a first exposure, not mastery — the goal is that none of this is unfamiliar on Monday.
+Week 4 stays with Capital Bikeshare and introduces forecasting and AI-powered visuals on top of it. This block is a first exposure, not mastery — the goal is that none of this is unfamiliar going into the deeper build in Block 5.
 
 ---
 
@@ -151,7 +151,7 @@ Observe the confidence interval shown around the forecast line. Write in your no
 - Does the forecast look plausible given the trend you already know from this data?
 - What does the confidence interval tell you about how certain Power BI is, and does that certainty seem to shrink or grow further into the forecast?
 
-Remove the forecast afterward if you do not want it in the final saved file, or leave it in as an exploratory addition — your choice, but note which you did.
+Leave the forecast in place for now — we will decide in Block 5 whether it becomes a permanent page in the dashboard.
 
 ---
 
@@ -165,53 +165,55 @@ Read the output. Write in your notes: what does the visual claim is the stronges
 
 If time allows, also try a **Decomposition Tree** visual breaking down total trips by `member_casual`, then station, then day of week. Write one sentence on what this visual makes easy to explore that a static bar chart does not.
 
-Delete this temporary page or visual before saving, since it is exploratory and not part of the finished Capital Bikeshare deliverable.
+Keep this page in the file for now — it feeds directly into Block 5, so there is no need to delete it today.
 
 ---
 
-## Block 5 — First Look at the Retail Dataset (1.5 Hours)
+## Block 5 — Extending the Capital Bikeshare Dashboard (1.5 Hours)
 
 ### Context
 
-Week 4's mini project uses a new online retail dataset. This block is reconnaissance, not building — the goal is to walk into Monday already oriented.
+This block is where Block 4's exploratory forecasting and AI visuals get turned into a proper, permanent extension of the Capital Bikeshare dashboard. We stay on the same dataset — the goal is depth, not breadth.
 
 ---
 
-### Step 1 — Locate and Open the Dataset (15 mins)
+### Step 1 — Decide What Becomes Permanent (20 mins)
 
-Locate the Week 4 online retail dataset provided for the mini project. Open it in Power BI's Get Data preview, or in Excel if that is easier for a first look, without building any model yet.
+Review the forecast and AI visuals from Block 4. For each one, decide and write down:
 
-Write in your notes: what file format is it, roughly how many rows, and what does a single row represent — a transaction, a product, a customer, something else?
-
----
-
-### Step 2 — Profile at a Glance (30 mins)
-
-List the columns present and group them in your notes under simple headings: identifiers, dates, quantities or amounts, categories, and anything else.
-
-For three columns you are unsure about, write what you think they represent and one question you would want answered before trusting that column.
-
-Compare this dataset to Capital Bikeshare in your notes: what is structurally similar, and what is genuinely different about working with retail transaction data versus bike trip data?
+- Does the forecast on the monthly trend line earn a permanent spot on the Usage Over Time page, or does it belong on a new dedicated **Forecast** page?
+- Does the Key Influencers output say something worth keeping in front of a viewer, or was it more useful as your own exploratory step?
+- Does the Decomposition Tree add something the existing dashboard pages do not already show?
 
 ---
 
-### Step 3 — Anticipate the ETL and Modelling Needs (25 mins)
+### Step 2 — Build a Forecast Page (30 mins)
 
-Without building anything, write in your notes:
+Create a new page named **Forecast** in `W3D5_PowerBI.pbix`.
 
-- What cleaning steps you would expect to need based on what you saw — null handling, data type fixes, duplicate transaction checks, currency or unit consistency
-- Whether this looks like it needs a single flat table or multiple related tables, and why
-- One question you would ask a stakeholder before starting, if this were a real client dataset rather than a training exercise
+Add the monthly trend line chart with the forecast applied, formatted to match the rest of the report — same fonts, same colour rules, clear title, a short text box explaining what the confidence interval means for a non-technical viewer.
+
+If useful, add a second, smaller forecast broken down by `member_casual` to see whether member and casual usage are expected to trend differently.
 
 ---
 
-### Step 4 — Set Personal Goals for the Mini Project (20 mins)
+### Step 3 — Build or Finalise an AI Insights Page (30 mins)
 
-Write a short personal goals note for Week 4, covering:
+Create a new page named **AI Insights** (or add to an existing page if it fits better).
 
-- One technical skill from Weeks 2 and 3 you specifically want to apply well in the retail project
-- One new Week 4 skill — forecasting or an AI visual — you want to use deliberately rather than just once for practice
-- What "done well" would look like for you personally by the end of the mini project, separate from the official completion checklist
+Place the Key Influencers visual here in its finished, formatted state — clear title, one sentence of interpretation as a text box.
+
+If the Decomposition Tree earned its place in Step 1, add it here too, with the same drill order used in Block 4 (`member_casual` → station → day of week).
+
+---
+
+### Step 4 — Set Personal Goals for Going Deeper (10 mins)
+
+Write a short personal goals note covering:
+
+- One technical skill from Weeks 2 and 3 you specifically want to apply well as you extend this dashboard
+- One thing about forecasting or AI visuals you want to get more confident with through deliberate repetition, rather than just having tried it once
+- What "done well" would look like for you personally by the end of this extension, separate from the official completion checklist
 
 ---
 
@@ -227,10 +229,10 @@ Before marking this session complete, confirm you have done each of the followin
 - [ ] Written plain-language definitions of forecasting, Key Influencers, and Decomposition Tree
 - [ ] Applied a forecast to the monthly trend chart and recorded observations
 - [ ] Tried at least one AI visual and recorded what it revealed
-- [ ] Opened and profiled the retail dataset at a glance
-- [ ] Compared the retail dataset structurally to Capital Bikeshare
-- [ ] Written anticipated ETL and modelling needs for the retail dataset
-- [ ] Written personal goals for the Week 4 mini project
+- [ ] Decided which Block 4 visuals become permanent additions to the dashboard
+- [ ] Built a formatted Forecast page
+- [ ] Built or finalised an AI Insights page
+- [ ] Written personal goals for going deeper on Capital Bikeshare
 - [ ] Saved all final files
 
 ---
@@ -241,7 +243,7 @@ Save the following to `/Documents/Dataskools/Week3_Day5/`
 
 | File | Description |
 |---|---|
-| `W3D5_PowerBI.pbix` | Final Capital Bikeshare report and dashboard, presentation-ready |
+| `W3D5_PowerBI.pbix` | Capital Bikeshare report and dashboard, presentation-ready, extended with Forecast and AI Insights pages |
 | `W3D5_Presentation.pdf` | Short Canva slide deck for the closing presentation |
-| `W3D5_Notes.docx` | Story spine, closing reflection, forecasting and AI visual notes, retail dataset first-look notes, and personal goals for Week 4 |
+| `W3D5_Notes.docx` | Story spine, closing reflection, forecasting and AI visual notes, and personal goals for going deeper on Capital Bikeshare |
 | `Exports/` | Folder containing PNG visual exports used in the Canva deck |
