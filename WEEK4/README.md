@@ -1,4 +1,4 @@
-```md
+
 # Overview: Analysis, AI Visuals & Capstone Project
 
 Welcome to **Week 4** — the final week of your Power BI journey with **Dataskools**.
@@ -79,4 +79,4 @@ By the end of Week 4, you'll have:
 - Created forecasting models for hourly and seasonal bike demand.
 - Used AI-powered visuals to explain trends and influencing factors.
 - Delivered a professional executive dashboard showcasing analytical and storytelling skills.
-```
+
