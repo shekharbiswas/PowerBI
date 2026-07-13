@@ -1,15 +1,13 @@
-# 📊 Overview: Analysis, AI visuals & Mini project
+```md
+# Overview: Analysis, AI Visuals & Capstone Project
 
-Welcome to **Week 4** — your final week in the Power BI learning journey with **Dataskools**.  
-This week, you’ll learn how to go beyond visuals and start **analyzing data patterns**.
+Welcome to **Week 4** — the final week of your Power BI journey with **Dataskools**.
 
-You will build forecasts and use **AI-powered visuals** in Power BI.
+This week, you'll move beyond building dashboards and start performing **advanced analytics** on real-world mobility data. Throughout the project, you'll analyze **Capital Bikeshare trip data (2019 – June 2026)** combined with **hourly weather data** to uncover travel patterns, understand external factors affecting bike usage, and build forecasting models.
 
-You’ll also complete a **Mini Project** using real business data from an **online retail company**, where you'll clean, model, and visualize key insights — just like a real BI analyst. 🎓
+You'll explore Power BI's **AI-powered visuals**, create interactive analytical dashboards, and develop predictive insights using historical trends.
 
-Finally, you’ll take time to reflect on your growth, revisit your goals, and get ready to continue your journey beyond Dataskools.
-
-
+Finally, you'll complete a **Capstone Project** by cleaning, modeling, analyzing, and presenting your findings through a professional Power BI report—just like a real Business Intelligence Analyst working with transportation and smart-city data.
 
 <br><br>
 
@@ -17,73 +15,68 @@ Finally, you’ll take time to reflect on your growth, revisit your goals, and g
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/477087b5-e43e-485f-b760-b522eba2825a" />
 </p>
 
-
 <br><br>
 
-## 🗓️ Weekly breakdown
+## Weekly Breakdown
 
-| Day | Topic                             | Focus Area                                                                 |
-|-----|-----------------------------------|-----------------------------------------------------------------------------|
-| 1   | **Analytical tools in Power BI** | Use grouping, clustering, reference lines, and time series for pattern discovery |
-| 2   | **AI visuals & root cause analysis** | Leverage key influencers, decomposition trees, and the Q&A visual          |
-| 3   | **Course recap & project setup** | Review key topics and start your executive summary project                 |
-| 4   | **Final project & reflection**   | Submit final assignment, reflect on progress, and plan your next steps     |
+| Day | Topic | Focus Area |
+|------|-------|------------|
+| 1 | **Advanced Analytics in Power BI** | Time series analysis, grouping, clustering, reference lines, and trend discovery |
+| 2 | **AI Visuals & Forecasting** | Key Influencers, Decomposition Tree, Q&A Visual, anomaly detection, and demand forecasting |
+| 3 | **Capstone Project Development** | Clean, model, and combine Capital Bikeshare and hourly weather datasets |
+| 4 | **Final Dashboard & Presentation** | Build an executive dashboard, present insights, and reflect on your learning journey |
 
 <br>
 
-## 🎯 Learning objectives
+## Learning Objectives
 
 By the end of this week, you will be able to:
 
-- Perform statistical and trend analysis using Power BI  
-- Apply advanced visuals including forecasting and key influencers  
-- Use AI-powered visuals to support root cause analysis  
-- Complete a final business report and executive summary  
-- Reflect on your journey and plan your next steps as a Power BI user  
+- Analyze multi-year transportation data using Power BI.
+- Combine Capital Bikeshare and hourly weather datasets into a unified analytical model.
+- Build time-series visualizations and demand forecasting models.
+- Apply AI-powered visuals for root cause analysis and pattern discovery.
+- Design an executive-level dashboard with actionable business insights.
+- Present findings using professional data storytelling techniques.
 
 <br>
 
-## 📈 Difficulty snapshot – Week 4
+## Difficulty Snapshot
 
-## 📈 Difficulty Snapshot – This Project
+| Topic Area | Difficulty | What to Expect |
+|------------|------------|----------------|
+| Data Integration | Medium | Combine large trip and hourly weather datasets using Power Query |
+| Time Series Analysis | Medium | Explore hourly, daily, monthly, and seasonal ridership patterns |
+| Forecasting | Hard | Build and interpret forecasting models for future bike demand |
+| AI Visuals | Medium | Use Key Influencers, Decomposition Tree, Q&A, and Smart Narratives |
+| Executive Dashboard | Medium | Design an interactive dashboard focused on business decision-making |
+| Capstone Project | Hard | Apply the complete Power BI workflow from data preparation to presentation |
 
-| 🧠 Topic Area                  | ⚙️ Difficulty | 💬 What to Expect                                                               |
-|-------------------------------|---------------|----------------------------------------------------------------------------------|
-| 📊 Clustering & binning        | 🟡 Medium      | Involves grouping and segmenting data for visual pattern recognition             |
-| 📈 Forecasting                 | 🔴 Hard        | Requires understanding trends, seasonality, and confidence intervals             |
-| 🤖 AI visuals                  | 🟡 Medium      | Intuitive to use, but require good interpretation and context                    |
-| 📋 Executive summary report    | 🟢 Easy        | Focused on layout, storytelling, and clear communication                         |
-| 🧠 Reflection & career planning| 🟢 Easy        | Personal and professional review of your learning journey                        |
-| 🧪 PL-300 prep & integration   | 🟡 Medium      | Combines skills from all modules for real-world and certification readiness      |
-| 🧩 Online Retail Final Project | 🟡 Medium      | Integrates cleaning, modeling, DAX, and storytelling — just like real BI work    |
-
-
-> 💡 **Tip:** This week is about insight, not just charts. It’s also about **proving your skills** and preparing to go from learner to certified Power BI analyst.
-
+> **Tip:** This week focuses on solving a real-world analytics problem. You'll work with several years of transportation and weather data to produce insights similar to those created by data analysts in smart-city and mobility organizations.
 
 <br>
 
-## 🧰 Tools used this week
+## Tools Used This Week
 
-- **Power BI Desktop**  
-- **Power BI Service**  
-- **Clustering, Forecasting, and Q&A visuals**  
-- **Performance Analyzer & Reference Lines**  
-- **Executive Summary template (Adventure Works dataset)**
+- Power BI Desktop
+- Power Query
+- DAX
+- AI Visuals (Key Influencers, Decomposition Tree, Smart Narratives, Q&A)
+- Forecasting & Analytics Pane
+- Capital Bikeshare Dataset (2019 – June 2026)
+- Hourly Weather Dataset
 
-> 🔧 *If you're working with time series, make sure your date fields are properly formatted and sorted.*
-
-<br>
-
-## 🏁 End-of-week outcomes
-
-By the end of Week 4, you’ll have:
-
-✅ Used advanced and AI visuals for analysis  
-✅ Conducted a root cause analysis with Power BI tools  
-✅ Completed your final executive summary report  
-✅ Taken your final assessment and reflected on next steps  
+> *Ensure all date and time fields are correctly formatted before building forecasting models and time-series visualizations.*
 
 <br>
 
-Let’s finish strong — and bring your data to life! 🚀📈
+## End-of-Week Outcomes
+
+By the end of Week 4, you'll have:
+
+- Built an end-to-end Power BI solution using real-world transportation data.
+- Combined historical bikeshare and weather datasets into a unified analytical model.
+- Created forecasting models for hourly and seasonal bike demand.
+- Used AI-powered visuals to explain trends and influencing factors.
+- Delivered a professional executive dashboard showcasing analytical and storytelling skills.
+```
